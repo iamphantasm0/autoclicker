@@ -179,3 +179,1238 @@
 2024-12-26 18:21:30,101 - Using interval: 0.17 seconds for the next 8.94 seconds.
 2024-12-26 18:21:39,045 - Using interval: 0.47 seconds for the next 7.61 seconds.
 2024-12-26 18:21:47,101 - Using interval: 0.45 seconds for the next 6.70 seconds.
+2024-12-26 21:14:24,054 - Using interval: 0.46 seconds for the next 7.99 seconds.
+2024-12-26 21:14:32,577 - Using interval: 0.36 seconds for the next 7.72 seconds.
+2024-12-26 21:14:40,672 - Using interval: 0.15 seconds for the next 7.00 seconds.
+2024-12-26 21:14:47,821 - Using interval: 0.35 seconds for the next 6.55 seconds.
+2024-12-26 21:14:54,826 - Using interval: 0.32 seconds for the next 9.82 seconds.
+2024-12-26 21:15:04,833 - Using interval: 0.33 seconds for the next 5.45 seconds.
+2024-12-26 21:15:10,690 - Using interval: 0.26 seconds for the next 7.60 seconds.
+2024-12-26 21:15:18,391 - Using interval: 0.19 seconds for the next 6.74 seconds.
+2024-12-26 21:15:25,156 - Using interval: 0.37 seconds for the next 8.88 seconds.
+2024-12-26 21:15:34,180 - Using interval: 0.46 seconds for the next 5.31 seconds.
+2024-12-26 21:15:39,838 - Using interval: 0.32 seconds for the next 8.94 seconds.
+2024-12-26 21:15:48,789 - Using interval: 0.45 seconds for the next 7.60 seconds.
+2024-12-26 21:15:56,627 - Using interval: 0.25 seconds for the next 5.59 seconds.
+2024-12-26 21:16:02,361 - Using interval: 0.38 seconds for the next 9.71 seconds.
+2024-12-26 21:16:12,548 - Using interval: 0.18 seconds for the next 9.03 seconds.
+2024-12-26 21:16:21,776 - Using interval: 0.19 seconds for the next 8.98 seconds.
+2024-12-26 21:16:30,787 - Using interval: 0.37 seconds for the next 8.18 seconds.
+2024-12-26 21:16:39,354 - Using interval: 0.20 seconds for the next 7.67 seconds.
+2024-12-26 21:16:47,083 - Using interval: 0.19 seconds for the next 7.03 seconds.
+2024-12-26 21:16:54,419 - Using interval: 0.38 seconds for the next 9.36 seconds.
+2024-12-26 21:17:04,162 - Using interval: 0.21 seconds for the next 9.65 seconds.
+2024-12-26 21:17:13,846 - Using interval: 0.48 seconds for the next 9.16 seconds.
+2024-12-26 21:17:23,236 - Using interval: 0.37 seconds for the next 5.01 seconds.
+2024-12-26 21:17:28,496 - Using interval: 0.23 seconds for the next 8.83 seconds.
+2024-12-26 21:17:37,657 - Using interval: 0.25 seconds for the next 7.12 seconds.
+2024-12-26 21:17:44,779 - Using interval: 0.25 seconds for the next 8.03 seconds.
+2024-12-26 21:17:52,876 - Using interval: 0.16 seconds for the next 9.92 seconds.
+2024-12-26 21:18:02,822 - Using interval: 0.19 seconds for the next 8.47 seconds.
+2024-12-26 21:18:11,314 - Using interval: 0.40 seconds for the next 9.85 seconds.
+2024-12-26 21:18:21,553 - Using interval: 0.41 seconds for the next 7.46 seconds.
+2024-12-26 21:18:29,359 - Using interval: 0.31 seconds for the next 6.32 seconds.
+2024-12-26 21:18:35,986 - Using interval: 0.27 seconds for the next 8.99 seconds.
+2024-12-26 21:18:45,294 - Using interval: 0.21 seconds for the next 5.61 seconds.
+2024-12-26 21:18:50,988 - Using interval: 0.19 seconds for the next 7.63 seconds.
+2024-12-26 21:18:58,765 - Using interval: 0.21 seconds for the next 6.09 seconds.
+2024-12-26 21:19:05,031 - Using interval: 0.27 seconds for the next 7.95 seconds.
+2024-12-26 21:19:13,170 - Using interval: 0.37 seconds for the next 7.55 seconds.
+2024-12-26 21:19:20,765 - Using interval: 0.37 seconds for the next 7.16 seconds.
+2024-12-26 21:19:27,990 - Using interval: 0.10 seconds for the next 5.99 seconds.
+2024-12-26 21:19:34,041 - Using interval: 0.44 seconds for the next 8.79 seconds.
+2024-12-26 21:19:43,329 - Using interval: 0.47 seconds for the next 6.84 seconds.
+2024-12-26 21:19:50,254 - Using interval: 0.21 seconds for the next 6.58 seconds.
+2024-12-26 21:19:56,991 - Using interval: 0.44 seconds for the next 5.77 seconds.
+2024-12-26 21:20:02,966 - Using interval: 0.46 seconds for the next 8.90 seconds.
+2024-12-26 21:20:12,070 - Using interval: 0.37 seconds for the next 7.81 seconds.
+2024-12-26 21:20:20,056 - Using interval: 0.49 seconds for the next 6.14 seconds.
+2024-12-26 21:20:26,653 - Using interval: 0.45 seconds for the next 7.13 seconds.
+2024-12-26 21:20:33,927 - Using interval: 0.41 seconds for the next 7.40 seconds.
+2024-12-26 21:20:41,691 - Using interval: 0.44 seconds for the next 6.68 seconds.
+2024-12-26 21:20:48,783 - Using interval: 0.40 seconds for the next 6.41 seconds.
+2024-12-26 21:20:55,410 - Using interval: 0.30 seconds for the next 5.35 seconds.
+2024-12-26 21:21:01,092 - Using interval: 0.31 seconds for the next 7.01 seconds.
+2024-12-26 21:21:08,131 - Using interval: 0.25 seconds for the next 8.54 seconds.
+2024-12-26 21:21:16,885 - Using interval: 0.25 seconds for the next 6.31 seconds.
+2024-12-26 21:21:23,320 - Using interval: 0.21 seconds for the next 7.87 seconds.
+2024-12-26 21:21:31,322 - Using interval: 0.43 seconds for the next 9.48 seconds.
+2024-12-26 21:21:40,956 - Using interval: 0.26 seconds for the next 8.13 seconds.
+2024-12-26 21:21:49,093 - Using interval: 0.30 seconds for the next 7.89 seconds.
+2024-12-26 21:21:57,174 - Using interval: 0.38 seconds for the next 6.81 seconds.
+2024-12-26 21:22:04,374 - Using interval: 0.42 seconds for the next 8.56 seconds.
+2024-12-26 21:22:13,370 - Using interval: 0.40 seconds for the next 6.22 seconds.
+2024-12-26 21:22:19,869 - Using interval: 0.19 seconds for the next 6.93 seconds.
+2024-12-26 21:22:26,927 - Using interval: 0.35 seconds for the next 8.37 seconds.
+2024-12-26 21:22:35,539 - Using interval: 0.41 seconds for the next 7.79 seconds.
+2024-12-26 21:22:43,840 - Using interval: 0.47 seconds for the next 7.96 seconds.
+2024-12-26 21:22:51,862 - Using interval: 0.19 seconds for the next 5.62 seconds.
+2024-12-26 21:22:57,548 - Using interval: 0.39 seconds for the next 5.03 seconds.
+2024-12-26 21:23:02,989 - Using interval: 0.31 seconds for the next 8.74 seconds.
+2024-12-26 21:23:11,790 - Using interval: 0.14 seconds for the next 5.80 seconds.
+2024-12-26 21:23:17,677 - Using interval: 0.18 seconds for the next 7.80 seconds.
+2024-12-26 21:23:25,740 - Using interval: 0.36 seconds for the next 5.64 seconds.
+2024-12-26 21:23:31,385 - Using interval: 0.45 seconds for the next 8.21 seconds.
+2024-12-26 21:23:39,675 - Using interval: 0.47 seconds for the next 9.35 seconds.
+2024-12-26 21:24:19,104 - Using interval: 0.20 seconds for the next 6.27 seconds.
+2024-12-26 21:24:25,524 - Using interval: 0.48 seconds for the next 7.21 seconds.
+2024-12-26 21:24:32,872 - Using interval: 0.43 seconds for the next 9.97 seconds.
+2024-12-26 21:24:43,093 - Using interval: 0.37 seconds for the next 5.76 seconds.
+2024-12-26 21:24:49,288 - Using interval: 0.43 seconds for the next 5.86 seconds.
+2024-12-26 21:24:55,196 - Using interval: 0.25 seconds for the next 9.32 seconds.
+2024-12-26 21:25:04,788 - Using interval: 0.30 seconds for the next 9.18 seconds.
+2024-12-26 21:25:14,148 - Using interval: 0.44 seconds for the next 9.51 seconds.
+2024-12-26 21:25:23,979 - Using interval: 0.45 seconds for the next 8.93 seconds.
+2024-12-26 21:25:33,458 - Using interval: 0.26 seconds for the next 7.29 seconds.
+2024-12-26 21:25:41,094 - Using interval: 0.25 seconds for the next 8.98 seconds.
+2024-12-26 21:25:50,255 - Using interval: 0.10 seconds for the next 9.48 seconds.
+2024-12-26 21:25:59,884 - Using interval: 0.37 seconds for the next 7.42 seconds.
+2024-12-26 21:26:07,504 - Using interval: 0.11 seconds for the next 8.67 seconds.
+2024-12-26 21:26:16,309 - Using interval: 0.18 seconds for the next 5.06 seconds.
+2024-12-26 21:26:21,379 - Using interval: 0.34 seconds for the next 8.54 seconds.
+2024-12-26 21:26:30,292 - Using interval: 0.15 seconds for the next 8.37 seconds.
+2024-12-26 21:26:38,693 - Using interval: 0.49 seconds for the next 7.01 seconds.
+2024-12-26 21:26:45,840 - Using interval: 0.32 seconds for the next 6.98 seconds.
+2024-12-26 21:26:53,096 - Using interval: 0.16 seconds for the next 9.60 seconds.
+2024-12-26 21:27:02,836 - Using interval: 0.35 seconds for the next 7.63 seconds.
+2024-12-26 21:27:10,675 - Using interval: 0.10 seconds for the next 8.83 seconds.
+2024-12-26 21:27:19,535 - Using interval: 0.27 seconds for the next 5.89 seconds.
+2024-12-26 21:27:25,515 - Using interval: 0.30 seconds for the next 7.43 seconds.
+2024-12-26 21:27:33,257 - Using interval: 0.30 seconds for the next 8.29 seconds.
+2024-12-26 21:27:41,893 - Using interval: 0.16 seconds for the next 7.45 seconds.
+2024-12-26 21:27:49,407 - Using interval: 0.26 seconds for the next 6.65 seconds.
+2024-12-26 21:27:56,295 - Using interval: 0.47 seconds for the next 9.79 seconds.
+2024-12-26 21:28:06,618 - Using interval: 0.40 seconds for the next 8.38 seconds.
+2024-12-26 21:28:15,428 - Using interval: 0.38 seconds for the next 8.65 seconds.
+2024-12-26 21:28:24,187 - Using interval: 0.21 seconds for the next 7.98 seconds.
+2024-12-26 21:28:32,339 - Using interval: 0.44 seconds for the next 8.45 seconds.
+2024-12-26 21:28:41,008 - Using interval: 0.12 seconds for the next 5.96 seconds.
+2024-12-26 21:28:46,970 - Using interval: 0.43 seconds for the next 6.38 seconds.
+2024-12-26 21:28:53,370 - Using interval: 0.28 seconds for the next 5.39 seconds.
+2024-12-26 21:28:58,768 - Using interval: 0.29 seconds for the next 6.62 seconds.
+2024-12-26 21:29:05,567 - Using interval: 0.31 seconds for the next 6.81 seconds.
+2024-12-26 21:29:12,775 - Using interval: 0.39 seconds for the next 5.23 seconds.
+2024-12-26 21:29:18,297 - Using interval: 0.34 seconds for the next 7.88 seconds.
+2024-12-26 21:29:26,281 - Using interval: 0.16 seconds for the next 6.39 seconds.
+2024-12-26 21:29:32,775 - Using interval: 0.39 seconds for the next 9.36 seconds.
+2024-12-26 21:29:42,209 - Using interval: 0.25 seconds for the next 6.91 seconds.
+2024-12-26 21:29:49,459 - Using interval: 0.17 seconds for the next 8.00 seconds.
+2024-12-26 21:29:57,590 - Using interval: 0.31 seconds for the next 6.54 seconds.
+2024-12-26 21:30:04,137 - Using interval: 0.48 seconds for the next 6.77 seconds.
+2024-12-26 21:30:11,154 - Using interval: 0.23 seconds for the next 7.00 seconds.
+2024-12-26 21:30:18,246 - Using interval: 0.33 seconds for the next 7.46 seconds.
+2024-12-26 21:30:26,101 - Using interval: 0.47 seconds for the next 8.18 seconds.
+2024-12-26 21:30:34,680 - Using interval: 0.44 seconds for the next 6.46 seconds.
+2024-12-26 21:30:41,263 - Using interval: 0.10 seconds for the next 9.25 seconds.
+2024-12-26 21:30:50,642 - Using interval: 0.43 seconds for the next 8.47 seconds.
+2024-12-26 21:31:03,095 - Using interval: 0.31 seconds for the next 9.88 seconds.
+2024-12-26 21:31:13,123 - Using interval: 0.40 seconds for the next 9.32 seconds.
+2024-12-26 21:31:22,805 - Using interval: 0.35 seconds for the next 9.58 seconds.
+2024-12-26 21:31:52,047 - Using interval: 0.17 seconds for the next 6.08 seconds.
+2024-12-26 21:31:58,200 - Using interval: 0.40 seconds for the next 9.02 seconds.
+2024-12-26 21:32:07,719 - Using interval: 0.48 seconds for the next 5.10 seconds.
+2024-12-26 21:32:12,996 - Using interval: 0.11 seconds for the next 7.26 seconds.
+2024-12-26 21:32:20,430 - Using interval: 0.27 seconds for the next 5.44 seconds.
+2024-12-26 21:32:26,170 - Using interval: 0.33 seconds for the next 7.78 seconds.
+2024-12-26 21:32:34,093 - Using interval: 0.32 seconds for the next 6.63 seconds.
+2024-12-26 21:35:40,786 - Using interval: 0.31 seconds for the next 8.69 seconds.
+2024-12-26 21:35:49,811 - Using interval: 0.20 seconds for the next 6.88 seconds.
+2024-12-26 21:35:56,989 - Using interval: 0.47 seconds for the next 8.39 seconds.
+2024-12-26 21:36:05,893 - Using interval: 0.10 seconds for the next 9.76 seconds.
+2024-12-26 21:36:15,780 - Using interval: 0.41 seconds for the next 6.84 seconds.
+2024-12-26 21:36:22,807 - Using interval: 0.42 seconds for the next 5.39 seconds.
+2024-12-26 21:36:28,339 - Using interval: 0.29 seconds for the next 5.57 seconds.
+2024-12-26 21:36:34,109 - Using interval: 0.17 seconds for the next 8.20 seconds.
+2024-12-26 21:36:42,638 - Using interval: 0.37 seconds for the next 6.29 seconds.
+2024-12-26 21:36:49,407 - Using interval: 0.38 seconds for the next 9.94 seconds.
+2024-12-26 21:36:59,795 - Using interval: 0.29 seconds for the next 6.88 seconds.
+2024-12-26 21:37:06,734 - Using interval: 0.24 seconds for the next 7.19 seconds.
+2024-12-26 21:37:14,108 - Using interval: 0.38 seconds for the next 9.73 seconds.
+2024-12-26 21:37:59,568 - Using interval: 0.20 seconds for the next 6.54 seconds.
+2024-12-26 21:38:06,239 - Using interval: 0.47 seconds for the next 7.14 seconds.
+2024-12-26 21:38:13,908 - Using interval: 0.12 seconds for the next 5.62 seconds.
+2024-12-26 21:38:19,613 - Using interval: 0.39 seconds for the next 5.15 seconds.
+2024-12-26 21:38:24,810 - Using interval: 0.23 seconds for the next 8.64 seconds.
+2024-12-26 21:38:33,455 - Using interval: 0.18 seconds for the next 6.90 seconds.
+2024-12-26 21:38:40,475 - Using interval: 0.40 seconds for the next 8.17 seconds.
+2024-12-26 21:38:48,775 - Using interval: 0.28 seconds for the next 6.34 seconds.
+2024-12-26 21:38:55,234 - Using interval: 0.31 seconds for the next 5.77 seconds.
+2024-12-26 21:39:01,200 - Using interval: 0.14 seconds for the next 7.37 seconds.
+2024-12-26 21:39:08,688 - Using interval: 0.17 seconds for the next 7.74 seconds.
+2024-12-26 21:39:16,683 - Using interval: 0.11 seconds for the next 6.66 seconds.
+2024-12-26 21:39:23,427 - Using interval: 0.48 seconds for the next 6.94 seconds.
+2024-12-26 21:39:30,500 - Using interval: 0.42 seconds for the next 6.72 seconds.
+2024-12-26 21:39:37,621 - Using interval: 0.10 seconds for the next 7.69 seconds.
+2024-12-26 21:39:45,367 - Using interval: 0.45 seconds for the next 6.25 seconds.
+2024-12-26 21:39:51,967 - Using interval: 0.21 seconds for the next 9.32 seconds.
+2024-12-26 21:40:01,587 - Using interval: 0.48 seconds for the next 6.19 seconds.
+2024-12-26 21:40:08,053 - Using interval: 0.40 seconds for the next 8.22 seconds.
+2024-12-26 21:40:16,705 - Using interval: 0.43 seconds for the next 7.71 seconds.
+2024-12-26 21:40:24,824 - Using interval: 0.38 seconds for the next 8.19 seconds.
+2024-12-26 21:40:33,159 - Using interval: 0.26 seconds for the next 9.33 seconds.
+2024-12-26 21:41:20,935 - Using interval: 0.40 seconds for the next 5.16 seconds.
+2024-12-26 21:41:26,149 - Using interval: 0.38 seconds for the next 5.60 seconds.
+2024-12-26 21:41:32,134 - Using interval: 0.48 seconds for the next 8.95 seconds.
+2024-12-26 21:41:41,139 - Using interval: 0.22 seconds for the next 8.90 seconds.
+2024-12-26 21:41:50,168 - Using interval: 0.27 seconds for the next 8.97 seconds.
+2024-12-26 21:41:59,507 - Using interval: 0.39 seconds for the next 9.54 seconds.
+2024-12-26 21:42:09,399 - Using interval: 0.19 seconds for the next 9.35 seconds.
+2024-12-26 21:42:18,961 - Using interval: 0.37 seconds for the next 6.30 seconds.
+2024-12-26 21:42:25,370 - Using interval: 0.35 seconds for the next 5.97 seconds.
+2024-12-26 21:42:31,679 - Using interval: 0.17 seconds for the next 6.86 seconds.
+2024-12-26 21:42:38,804 - Using interval: 0.37 seconds for the next 8.54 seconds.
+2024-12-26 21:42:47,454 - Using interval: 0.44 seconds for the next 5.66 seconds.
+2024-12-26 21:42:53,536 - Using interval: 0.40 seconds for the next 8.08 seconds.
+2024-12-26 21:43:01,649 - Using interval: 0.47 seconds for the next 7.46 seconds.
+2024-12-26 21:43:09,233 - Using interval: 0.21 seconds for the next 8.07 seconds.
+2024-12-26 21:43:17,619 - Using interval: 0.25 seconds for the next 6.13 seconds.
+2024-12-26 21:43:23,969 - Using interval: 0.30 seconds for the next 7.33 seconds.
+2024-12-26 21:43:31,584 - Using interval: 0.26 seconds for the next 8.11 seconds.
+2024-12-26 21:43:40,028 - Using interval: 0.18 seconds for the next 9.75 seconds.
+2024-12-26 21:43:49,833 - Using interval: 0.42 seconds for the next 8.93 seconds.
+2024-12-26 21:43:58,775 - Using interval: 0.40 seconds for the next 9.40 seconds.
+2024-12-26 21:44:08,466 - Using interval: 0.25 seconds for the next 5.27 seconds.
+2024-12-26 21:44:13,750 - Using interval: 0.43 seconds for the next 6.92 seconds.
+2024-12-26 21:44:20,736 - Using interval: 0.33 seconds for the next 9.31 seconds.
+2024-12-26 21:44:30,406 - Using interval: 0.18 seconds for the next 8.02 seconds.
+2024-12-26 21:44:38,560 - Using interval: 0.25 seconds for the next 9.86 seconds.
+2024-12-26 21:44:48,583 - Using interval: 0.25 seconds for the next 5.23 seconds.
+2024-12-26 21:44:53,921 - Using interval: 0.29 seconds for the next 5.15 seconds.
+2024-12-26 21:44:59,370 - Using interval: 0.32 seconds for the next 5.14 seconds.
+2024-12-26 21:45:04,906 - Using interval: 0.29 seconds for the next 8.11 seconds.
+2024-12-26 21:45:13,014 - Using interval: 0.35 seconds for the next 9.66 seconds.
+2024-12-26 21:45:23,043 - Using interval: 0.19 seconds for the next 6.78 seconds.
+2024-12-26 21:45:29,998 - Using interval: 0.40 seconds for the next 9.29 seconds.
+2024-12-26 21:45:39,558 - Using interval: 0.40 seconds for the next 8.32 seconds.
+2024-12-26 21:45:48,077 - Using interval: 0.32 seconds for the next 8.42 seconds.
+2024-12-26 21:45:56,626 - Using interval: 0.23 seconds for the next 9.87 seconds.
+2024-12-26 21:46:06,698 - Using interval: 0.34 seconds for the next 6.30 seconds.
+2024-12-26 21:46:13,393 - Using interval: 0.19 seconds for the next 5.65 seconds.
+2024-12-26 21:46:19,219 - Using interval: 0.22 seconds for the next 8.63 seconds.
+2024-12-26 21:46:27,942 - Using interval: 0.11 seconds for the next 6.94 seconds.
+2024-12-26 21:46:34,917 - Using interval: 0.39 seconds for the next 9.56 seconds.
+2024-12-26 21:46:44,799 - Using interval: 0.17 seconds for the next 6.70 seconds.
+2024-12-26 21:46:51,722 - Using interval: 0.47 seconds for the next 9.18 seconds.
+2024-12-26 21:47:00,923 - Using interval: 0.28 seconds for the next 6.67 seconds.
+2024-12-26 21:47:07,926 - Using interval: 0.46 seconds for the next 9.83 seconds.
+2024-12-26 21:47:18,181 - Using interval: 0.36 seconds for the next 9.98 seconds.
+2024-12-26 21:47:28,482 - Using interval: 0.10 seconds for the next 7.38 seconds.
+2024-12-26 21:47:36,006 - Using interval: 0.38 seconds for the next 8.96 seconds.
+2024-12-26 21:47:45,275 - Using interval: 0.16 seconds for the next 8.24 seconds.
+2024-12-26 21:47:53,601 - Using interval: 0.46 seconds for the next 5.96 seconds.
+2024-12-26 21:47:59,832 - Using interval: 0.35 seconds for the next 6.48 seconds.
+2024-12-26 21:48:06,651 - Using interval: 0.16 seconds for the next 7.22 seconds.
+2024-12-26 21:48:13,942 - Using interval: 0.25 seconds for the next 6.40 seconds.
+2024-12-26 21:48:20,393 - Using interval: 0.34 seconds for the next 9.27 seconds.
+2024-12-26 21:48:29,706 - Using interval: 0.25 seconds for the next 5.78 seconds.
+2024-12-26 21:48:35,741 - Using interval: 0.14 seconds for the next 8.25 seconds.
+2024-12-26 21:48:44,083 - Using interval: 0.50 seconds for the next 7.15 seconds.
+2024-12-26 21:48:51,283 - Using interval: 0.33 seconds for the next 8.15 seconds.
+2024-12-26 21:48:59,598 - Using interval: 0.28 seconds for the next 9.14 seconds.
+2024-12-26 21:49:08,917 - Using interval: 0.23 seconds for the next 9.38 seconds.
+2024-12-26 21:49:18,301 - Using interval: 0.25 seconds for the next 5.65 seconds.
+2024-12-26 21:49:23,973 - Using interval: 0.33 seconds for the next 7.23 seconds.
+2024-12-26 21:49:31,365 - Using interval: 0.35 seconds for the next 6.18 seconds.
+2024-12-26 21:49:37,671 - Using interval: 0.17 seconds for the next 6.82 seconds.
+2024-12-26 21:49:44,677 - Using interval: 0.15 seconds for the next 5.65 seconds.
+2024-12-26 21:49:50,462 - Using interval: 0.38 seconds for the next 5.01 seconds.
+2024-12-26 21:49:55,781 - Using interval: 0.46 seconds for the next 5.80 seconds.
+2024-12-26 21:50:02,036 - Using interval: 0.16 seconds for the next 7.15 seconds.
+2024-12-26 21:50:09,306 - Using interval: 0.31 seconds for the next 7.85 seconds.
+2024-12-26 21:50:17,264 - Using interval: 0.33 seconds for the next 5.59 seconds.
+2024-12-26 21:50:22,898 - Using interval: 0.16 seconds for the next 5.22 seconds.
+2024-12-26 21:50:28,366 - Using interval: 0.32 seconds for the next 8.17 seconds.
+2024-12-26 21:50:36,804 - Using interval: 0.20 seconds for the next 7.98 seconds.
+2024-12-26 21:50:45,024 - Using interval: 0.23 seconds for the next 9.79 seconds.
+2024-12-26 21:50:54,824 - Using interval: 0.20 seconds for the next 8.38 seconds.
+2024-12-26 21:51:03,388 - Using interval: 0.18 seconds for the next 8.44 seconds.
+2024-12-26 21:51:11,880 - Using interval: 0.35 seconds for the next 9.16 seconds.
+2024-12-26 21:51:21,468 - Using interval: 0.37 seconds for the next 9.46 seconds.
+2024-12-26 21:51:30,947 - Using interval: 0.13 seconds for the next 5.83 seconds.
+2024-12-26 21:51:36,956 - Using interval: 0.32 seconds for the next 6.31 seconds.
+2024-12-26 21:51:43,321 - Using interval: 0.39 seconds for the next 8.48 seconds.
+2024-12-26 21:51:52,232 - Using interval: 0.14 seconds for the next 9.11 seconds.
+2024-12-26 21:52:01,358 - Using interval: 0.45 seconds for the next 5.61 seconds.
+2024-12-26 21:52:07,525 - Using interval: 0.48 seconds for the next 7.43 seconds.
+2024-12-26 21:52:15,193 - Using interval: 0.14 seconds for the next 9.69 seconds.
+2024-12-26 21:52:24,997 - Using interval: 0.47 seconds for the next 9.60 seconds.
+2024-12-26 21:52:34,700 - Using interval: 0.37 seconds for the next 5.04 seconds.
+2024-12-26 21:52:39,909 - Using interval: 0.47 seconds for the next 9.42 seconds.
+2024-12-26 21:52:49,623 - Using interval: 0.15 seconds for the next 9.02 seconds.
+2024-12-26 21:52:58,881 - Using interval: 0.24 seconds for the next 5.28 seconds.
+2024-12-26 21:53:04,421 - Using interval: 0.14 seconds for the next 5.49 seconds.
+2024-12-26 21:53:10,007 - Using interval: 0.11 seconds for the next 5.10 seconds.
+2024-12-26 21:53:15,283 - Using interval: 0.29 seconds for the next 7.91 seconds.
+2024-12-26 21:53:23,531 - Using interval: 0.45 seconds for the next 6.14 seconds.
+2024-12-26 21:53:29,705 - Using interval: 0.48 seconds for the next 6.96 seconds.
+2024-12-26 21:53:36,767 - Using interval: 0.43 seconds for the next 8.13 seconds.
+2024-12-26 21:53:45,372 - Using interval: 0.26 seconds for the next 5.28 seconds.
+2024-12-26 21:53:50,865 - Using interval: 0.38 seconds for the next 5.34 seconds.
+2024-12-26 21:53:56,653 - Using interval: 0.27 seconds for the next 5.91 seconds.
+2024-12-26 21:54:02,664 - Using interval: 0.17 seconds for the next 7.37 seconds.
+2024-12-26 21:54:10,197 - Using interval: 0.33 seconds for the next 7.02 seconds.
+2024-12-26 21:54:17,238 - Using interval: 0.12 seconds for the next 7.58 seconds.
+2024-12-26 21:54:24,944 - Using interval: 0.26 seconds for the next 6.52 seconds.
+2024-12-26 21:54:31,673 - Using interval: 0.17 seconds for the next 8.46 seconds.
+2024-12-26 21:54:40,265 - Using interval: 0.50 seconds for the next 5.15 seconds.
+2024-12-26 21:54:45,441 - Using interval: 0.30 seconds for the next 9.33 seconds.
+2024-12-26 21:54:54,998 - Using interval: 0.16 seconds for the next 9.70 seconds.
+2024-12-26 21:55:04,733 - Using interval: 0.23 seconds for the next 5.03 seconds.
+2024-12-26 21:55:09,806 - Using interval: 0.37 seconds for the next 5.13 seconds.
+2024-12-26 21:55:15,081 - Using interval: 0.23 seconds for the next 6.34 seconds.
+2024-12-26 21:55:21,542 - Using interval: 0.18 seconds for the next 9.47 seconds.
+2024-12-26 21:55:31,127 - Using interval: 0.14 seconds for the next 5.72 seconds.
+2024-12-26 21:55:37,015 - Using interval: 0.20 seconds for the next 7.41 seconds.
+2024-12-26 21:55:44,623 - Using interval: 0.12 seconds for the next 5.35 seconds.
+2024-12-26 21:55:50,072 - Using interval: 0.38 seconds for the next 5.95 seconds.
+2024-12-26 21:55:56,429 - Using interval: 0.16 seconds for the next 9.42 seconds.
+2024-12-26 21:56:06,097 - Using interval: 0.21 seconds for the next 5.38 seconds.
+2024-12-26 21:56:11,567 - Using interval: 0.37 seconds for the next 7.44 seconds.
+2024-12-26 21:56:19,139 - Using interval: 0.17 seconds for the next 9.55 seconds.
+2024-12-26 21:56:28,771 - Using interval: 0.45 seconds for the next 5.73 seconds.
+2024-12-26 21:56:34,927 - Using interval: 0.26 seconds for the next 6.45 seconds.
+2024-12-26 21:56:41,549 - Using interval: 0.15 seconds for the next 6.24 seconds.
+2024-12-26 21:56:47,880 - Using interval: 0.12 seconds for the next 8.17 seconds.
+2024-12-26 21:56:56,108 - Using interval: 0.18 seconds for the next 9.31 seconds.
+2024-12-26 21:57:05,516 - Using interval: 0.49 seconds for the next 8.34 seconds.
+2024-12-26 21:57:14,389 - Using interval: 0.19 seconds for the next 8.87 seconds.
+2024-12-26 21:57:23,504 - Using interval: 0.42 seconds for the next 7.29 seconds.
+2024-12-26 21:57:30,854 - Using interval: 0.40 seconds for the next 7.52 seconds.
+2024-12-26 21:57:38,588 - Using interval: 0.35 seconds for the next 5.68 seconds.
+2024-12-26 21:57:44,581 - Using interval: 0.26 seconds for the next 9.64 seconds.
+2024-12-26 21:57:54,539 - Using interval: 0.33 seconds for the next 7.95 seconds.
+2024-12-26 23:10:18,808 - Using interval: 0.35 seconds for the next 9.53 seconds.
+2024-12-26 23:10:28,648 - Using interval: 0.20 seconds for the next 8.07 seconds.
+2024-12-26 23:10:36,873 - Using interval: 0.25 seconds for the next 7.68 seconds.
+2024-12-26 23:10:44,845 - Using interval: 0.49 seconds for the next 7.42 seconds.
+2024-12-26 23:10:52,363 - Using interval: 0.24 seconds for the next 8.03 seconds.
+2024-12-26 23:11:00,412 - Using interval: 0.18 seconds for the next 7.49 seconds.
+2024-12-26 23:11:07,972 - Using interval: 0.37 seconds for the next 6.59 seconds.
+2024-12-26 23:11:15,021 - Using interval: 0.30 seconds for the next 8.01 seconds.
+2024-12-26 23:11:23,336 - Using interval: 0.30 seconds for the next 5.30 seconds.
+2024-12-26 23:11:28,665 - Using interval: 0.41 seconds for the next 7.68 seconds.
+2024-12-26 23:12:09,836 - Using interval: 0.23 seconds for the next 6.77 seconds.
+2024-12-26 23:12:16,641 - Using interval: 0.15 seconds for the next 9.96 seconds.
+2024-12-26 23:12:26,727 - Using interval: 0.42 seconds for the next 5.15 seconds.
+2024-12-26 23:12:31,962 - Using interval: 0.24 seconds for the next 7.02 seconds.
+2024-12-26 23:12:39,048 - Using interval: 0.22 seconds for the next 9.13 seconds.
+2024-12-26 23:12:48,364 - Using interval: 0.47 seconds for the next 5.14 seconds.
+2024-12-26 23:12:53,514 - Using interval: 0.35 seconds for the next 9.04 seconds.
+2024-12-26 23:13:02,756 - Using interval: 0.12 seconds for the next 8.37 seconds.
+2024-12-26 23:13:11,280 - Using interval: 0.28 seconds for the next 5.08 seconds.
+2024-12-26 23:13:16,736 - Using interval: 0.41 seconds for the next 8.70 seconds.
+2024-12-26 23:13:25,446 - Using interval: 0.12 seconds for the next 5.97 seconds.
+2024-12-26 23:13:31,497 - Using interval: 0.35 seconds for the next 6.30 seconds.
+2024-12-26 23:13:37,802 - Using interval: 0.24 seconds for the next 8.03 seconds.
+2024-12-26 23:13:46,095 - Using interval: 0.18 seconds for the next 7.61 seconds.
+2024-12-26 23:13:53,816 - Using interval: 0.30 seconds for the next 9.94 seconds.
+2024-12-26 23:14:04,075 - Using interval: 0.25 seconds for the next 6.74 seconds.
+2024-12-26 23:14:11,159 - Using interval: 0.21 seconds for the next 7.78 seconds.
+2024-12-26 23:14:19,262 - Using interval: 0.13 seconds for the next 7.17 seconds.
+2024-12-26 23:14:26,654 - Using interval: 0.39 seconds for the next 5.54 seconds.
+2024-12-26 23:14:32,229 - Using interval: 0.16 seconds for the next 7.02 seconds.
+2024-12-26 23:14:39,489 - Using interval: 0.32 seconds for the next 9.41 seconds.
+2024-12-26 23:14:49,241 - Using interval: 0.23 seconds for the next 8.10 seconds.
+2024-12-26 23:14:57,617 - Using interval: 0.24 seconds for the next 8.01 seconds.
+2024-12-26 23:15:05,656 - Using interval: 0.42 seconds for the next 7.79 seconds.
+2024-12-26 23:15:13,550 - Using interval: 0.36 seconds for the next 9.00 seconds.
+2024-12-26 23:15:22,996 - Using interval: 0.39 seconds for the next 7.30 seconds.
+2024-12-26 23:15:30,487 - Using interval: 0.19 seconds for the next 8.22 seconds.
+2024-12-26 23:15:38,864 - Using interval: 0.38 seconds for the next 8.22 seconds.
+2024-12-26 23:15:47,118 - Using interval: 0.40 seconds for the next 9.47 seconds.
+2024-12-26 23:15:56,662 - Using interval: 0.18 seconds for the next 9.42 seconds.
+2024-12-26 23:16:06,294 - Using interval: 0.20 seconds for the next 6.46 seconds.
+2024-12-26 23:16:12,952 - Using interval: 0.44 seconds for the next 7.02 seconds.
+2024-12-26 23:16:20,038 - Using interval: 0.36 seconds for the next 6.42 seconds.
+2024-12-26 23:16:26,564 - Using interval: 0.14 seconds for the next 8.42 seconds.
+2024-12-26 23:16:34,997 - Using interval: 0.20 seconds for the next 5.54 seconds.
+2024-12-26 23:16:40,540 - Using interval: 0.24 seconds for the next 8.74 seconds.
+2024-12-26 23:16:49,504 - Using interval: 0.11 seconds for the next 9.05 seconds.
+2024-12-26 23:16:58,747 - Using interval: 0.39 seconds for the next 6.24 seconds.
+2024-12-26 23:17:05,178 - Using interval: 0.45 seconds for the next 9.15 seconds.
+2024-12-26 23:17:14,733 - Using interval: 0.35 seconds for the next 9.29 seconds.
+2024-12-26 23:17:24,185 - Using interval: 0.45 seconds for the next 8.95 seconds.
+2024-12-26 23:17:38,749 - Using interval: 0.42 seconds for the next 5.19 seconds.
+2024-12-26 23:17:44,013 - Using interval: 0.32 seconds for the next 8.54 seconds.
+2024-12-26 23:17:52,860 - Using interval: 0.16 seconds for the next 9.52 seconds.
+2024-12-26 23:18:02,469 - Using interval: 0.37 seconds for the next 6.56 seconds.
+2024-12-26 23:18:09,086 - Using interval: 0.19 seconds for the next 7.97 seconds.
+2024-12-26 23:18:17,344 - Using interval: 0.34 seconds for the next 9.05 seconds.
+2024-12-26 23:18:26,834 - Using interval: 0.42 seconds for the next 8.38 seconds.
+2024-12-26 23:18:35,724 - Using interval: 0.47 seconds for the next 6.75 seconds.
+2024-12-26 23:18:42,624 - Using interval: 0.47 seconds for the next 6.32 seconds.
+2024-12-26 23:19:33,205 - Using interval: 0.17 seconds for the next 9.84 seconds.
+2024-12-26 23:19:43,171 - Using interval: 0.11 seconds for the next 9.54 seconds.
+2024-12-26 23:19:52,893 - Using interval: 0.28 seconds for the next 8.26 seconds.
+2024-12-26 23:20:01,332 - Using interval: 0.21 seconds for the next 9.66 seconds.
+2024-12-26 23:20:11,300 - Using interval: 0.15 seconds for the next 8.71 seconds.
+2024-12-26 23:20:20,038 - Using interval: 0.14 seconds for the next 5.49 seconds.
+2024-12-26 23:20:25,729 - Using interval: 0.20 seconds for the next 7.50 seconds.
+2024-12-26 23:20:33,266 - Using interval: 0.39 seconds for the next 9.40 seconds.
+2024-12-26 23:20:42,813 - Using interval: 0.30 seconds for the next 7.66 seconds.
+2024-12-26 23:20:50,737 - Using interval: 0.29 seconds for the next 5.90 seconds.
+2024-12-26 23:20:56,715 - Using interval: 0.11 seconds for the next 9.89 seconds.
+2024-12-26 23:21:06,655 - Using interval: 0.20 seconds for the next 8.86 seconds.
+2024-12-26 23:21:15,777 - Using interval: 0.26 seconds for the next 6.57 seconds.
+2024-12-26 23:21:22,704 - Using interval: 0.23 seconds for the next 6.37 seconds.
+2024-12-26 23:21:29,137 - Using interval: 0.36 seconds for the next 6.79 seconds.
+2024-12-26 23:21:36,050 - Using interval: 0.17 seconds for the next 8.22 seconds.
+2024-12-26 23:28:51,288 - Using interval: 0.21 seconds for the next 7.66 seconds.
+2024-12-26 23:28:51,288 - Taking a break for 7.21 seconds.
+2024-12-26 23:28:59,203 - Using interval: 0.12 seconds for the next 6.71 seconds.
+2024-12-26 23:29:02,386 - Taking a break for 2.11 seconds.
+2024-12-26 23:29:06,086 - Using interval: 0.16 seconds for the next 7.73 seconds.
+2024-12-26 23:29:07,506 - Taking a break for 4.33 seconds.
+2024-12-26 23:29:12,500 - Taking a break for 8.54 seconds.
+2024-12-26 23:29:21,774 - Using interval: 0.33 seconds for the next 5.24 seconds.
+2024-12-26 23:29:22,636 - Taking a break for 2.32 seconds.
+2024-12-26 23:29:25,886 - Taking a break for 9.45 seconds.
+2024-12-26 23:30:41,384 - Using interval: 0.40 seconds for the next 9.92 seconds.
+2024-12-26 23:32:28,123 - Using interval: 0.41 seconds for the next 6.78 seconds.
+2024-12-26 23:32:29,090 - Mouse moved by (-5, -1) pixels.
+2024-12-26 23:32:32,118 - Mouse moved by (0, 1) pixels.
+2024-12-26 23:32:34,724 - Mouse moved by (-4, -2) pixels.
+2024-12-26 23:32:35,240 - Using interval: 0.14 seconds for the next 8.55 seconds.
+2024-12-26 23:32:35,561 - Mouse moved by (-1, 5) pixels.
+2024-12-26 23:32:37,133 - Mouse moved by (-5, -2) pixels.
+2024-12-26 23:32:38,139 - Mouse moved by (-1, -3) pixels.
+2024-12-26 23:32:38,920 - Mouse moved by (2, -2) pixels.
+2024-12-26 23:32:39,467 - Mouse moved by (-4, 0) pixels.
+2024-12-26 23:32:40,849 - Mouse moved by (0, -4) pixels.
+2024-12-26 23:32:42,026 - Mouse moved by (-2, -5) pixels.
+2024-12-26 23:32:43,934 - Mouse moved by (4, -3) pixels.
+2024-12-26 23:32:44,249 - Using interval: 0.12 seconds for the next 7.97 seconds.
+2024-12-26 23:32:44,571 - Mouse moved by (5, -3) pixels.
+2024-12-26 23:32:45,629 - Mouse moved by (-5, -3) pixels.
+2024-12-26 23:32:46,427 - Mouse moved by (5, 2) pixels.
+2024-12-26 23:32:46,991 - Mouse moved by (-2, 3) pixels.
+2024-12-26 23:32:49,542 - Mouse moved by (0, 4) pixels.
+2024-12-26 23:32:51,342 - Mouse moved by (3, 5) pixels.
+2024-12-26 23:32:51,893 - Mouse moved by (-3, 1) pixels.
+2024-12-26 23:32:52,650 - Mouse moved by (5, -1) pixels.
+2024-12-26 23:32:52,879 - Using interval: 0.38 seconds for the next 9.41 seconds.
+2024-12-26 23:32:53,207 - Mouse moved by (2, 4) pixels.
+2024-12-26 23:32:53,975 - Mouse moved by (-1, 5) pixels.
+2024-12-26 23:32:55,923 - Mouse moved by (0, -4) pixels.
+2024-12-26 23:32:57,001 - Mouse moved by (-4, -4) pixels.
+2024-12-26 23:35:00,102 - Using interval: 0.16 seconds for the next 12.18 seconds.
+2024-12-26 23:35:02,383 - Mouse moved by (-2, -4) pixels.
+2024-12-26 23:35:08,287 - Mouse moved by (-3, -3) pixels.
+2024-12-26 23:35:12,561 - Mouse moved by (-4, 0) pixels.
+2024-12-26 23:35:12,844 - Using interval: 0.30 seconds for the next 10.74 seconds.
+2024-12-26 23:35:16,793 - Mouse moved by (-5, 4) pixels.
+2024-12-26 23:35:19,740 - Mouse moved by (-2, -2) pixels.
+2024-12-26 23:35:24,539 - Mouse moved by (0, 5) pixels.
+2024-12-26 23:35:24,943 - Using interval: 0.29 seconds for the next 18.96 seconds.
+2024-12-26 23:35:29,691 - Mouse moved by (-5, 1) pixels.
+2024-12-26 23:35:34,083 - Mouse moved by (5, -5) pixels.
+2024-12-26 23:35:37,954 - Mouse moved by (-2, -1) pixels.
+2024-12-26 23:35:39,717 - Mouse moved by (-4, 4) pixels.
+2024-12-26 23:35:40,923 - Taking a break for 5.72 seconds.
+2024-12-26 23:35:47,040 - Using interval: 0.21 seconds for the next 10.82 seconds.
+2024-12-26 23:35:52,224 - Mouse moved by (1, -4) pixels.
+2024-12-26 23:35:57,413 - Mouse moved by (-5, -5) pixels.
+2024-12-26 23:35:58,081 - Using interval: 0.26 seconds for the next 12.98 seconds.
+2024-12-26 23:36:02,339 - Mouse moved by (-1, 5) pixels.
+2024-12-26 23:36:06,601 - Mouse moved by (-3, 0) pixels.
+2024-12-26 23:36:11,327 - Mouse moved by (-3, -5) pixels.
+2024-12-26 23:36:11,694 - Using interval: 0.36 seconds for the next 12.24 seconds.
+2024-12-26 23:36:17,492 - Mouse moved by (5, -3) pixels.
+2024-12-26 23:36:20,738 - Mouse moved by (5, 4) pixels.
+2024-12-26 23:36:25,585 - Mouse moved by (-1, -1) pixels.
+2024-12-26 23:36:26,090 - Using interval: 0.20 seconds for the next 10.20 seconds.
+2024-12-26 23:36:31,153 - Mouse moved by (-3, 1) pixels.
+2024-12-26 23:37:43,102 - Using interval: 0.12 seconds for the next 10.96 seconds.
+2024-12-26 23:37:48,208 - Mouse moved by (2, 5) pixels.
+2024-12-26 23:37:49,032 - Mouse moved by (0, 0) pixels.
+2024-12-26 23:37:50,752 - Mouse moved by (-4, 5) pixels.
+2024-12-26 23:37:53,626 - Mouse moved by (1, 2) pixels.
+2024-12-26 23:37:56,594 - Mouse moved by (0, -1) pixels.
+2024-12-26 23:37:56,842 - Using interval: 0.45 seconds for the next 19.35 seconds.
+2024-12-26 23:37:59,918 - Mouse moved by (0, 1) pixels.
+2024-12-26 23:38:03,756 - Mouse moved by (-2, -4) pixels.
+2024-12-26 23:38:07,305 - Mouse moved by (-4, 5) pixels.
+2024-12-26 23:38:13,881 - Mouse moved by (-2, 3) pixels.
+2024-12-26 23:38:18,051 - Mouse moved by (2, -4) pixels.
+2024-12-26 23:38:18,606 - Using interval: 0.43 seconds for the next 12.19 seconds.
+2024-12-26 23:38:21,943 - Mouse moved by (-4, 1) pixels.
+2024-12-26 23:38:24,685 - Taking a break for 8.15 seconds.
+2024-12-26 23:38:33,369 - Using interval: 0.49 seconds for the next 10.73 seconds.
+2024-12-26 23:38:37,476 - Mouse moved by (2, 3) pixels.
+2024-12-26 23:38:47,392 - Mouse moved by (-5, 1) pixels.
+2024-12-26 23:38:48,039 - Using interval: 0.45 seconds for the next 14.70 seconds.
+2024-12-26 23:38:52,424 - Mouse moved by (-4, 2) pixels.
+2024-12-26 23:38:55,650 - Mouse moved by (3, 0) pixels.
+2024-12-26 23:39:03,333 - Mouse moved by (-2, -3) pixels.
+2024-12-26 23:39:03,889 - Using interval: 0.40 seconds for the next 10.70 seconds.
+2024-12-26 23:39:06,002 - Taking a break for 7.97 seconds.
+2024-12-26 23:39:14,701 - Using interval: 0.17 seconds for the next 13.36 seconds.
+2024-12-26 23:39:19,301 - Mouse moved by (4, -3) pixels.
+2024-12-26 23:39:24,014 - Mouse moved by (-1, -2) pixels.
+2024-12-26 23:39:30,336 - Mouse moved by (-1, 1) pixels.
+2024-12-26 23:39:30,619 - Using interval: 0.49 seconds for the next 13.91 seconds.
+2024-12-26 23:39:39,786 - Mouse moved by (-3, -3) pixels.
+2024-12-26 23:39:45,508 - Mouse moved by (2, 2) pixels.
+2024-12-26 23:39:46,135 - Using interval: 0.34 seconds for the next 13.52 seconds.
+2024-12-26 23:39:47,038 - Taking a break for 8.39 seconds.
+2024-12-26 23:39:57,944 - Mouse moved by (-3, -3) pixels.
+2024-12-26 23:39:59,765 - Using interval: 0.41 seconds for the next 17.02 seconds.
+2024-12-26 23:40:04,782 - Mouse moved by (-5, -4) pixels.
+2024-12-26 23:40:10,493 - Mouse moved by (-3, -5) pixels.
+2024-12-26 23:40:17,179 - Mouse moved by (-2, 3) pixels.
+2024-12-26 23:40:17,704 - Using interval: 0.27 seconds for the next 17.88 seconds.
+2024-12-26 23:40:22,588 - Mouse moved by (5, 2) pixels.
+2024-12-26 23:40:28,558 - Mouse moved by (5, -4) pixels.
+2024-12-26 23:40:28,949 - Taking a break for 2.03 seconds.
+2024-12-26 23:40:36,174 - Mouse moved by (2, -1) pixels.
+2024-12-26 23:40:36,549 - Using interval: 0.14 seconds for the next 15.80 seconds.
+2024-12-26 23:40:39,733 - Mouse moved by (-3, 0) pixels.
+2024-12-26 23:40:41,605 - Mouse moved by (0, 0) pixels.
+2024-12-26 23:40:47,233 - Mouse moved by (2, -1) pixels.
+2024-12-26 23:40:50,320 - Mouse moved by (4, 5) pixels.
+2024-12-26 23:40:55,656 - Mouse moved by (-3, 3) pixels.
+2024-12-26 23:40:55,904 - Using interval: 0.30 seconds for the next 13.73 seconds.
+2024-12-26 23:41:02,776 - Mouse moved by (4, -3) pixels.
+2024-12-26 23:42:30,831 - Using interval: 0.13 seconds for the next 10.36 seconds.
+2024-12-26 23:46:34,205 - Using interval: 0.41 seconds for the next 15.97 seconds.
+2024-12-26 23:47:09,670 - Mouse moved by (-1, 5) pixels.
+2024-12-26 23:50:49,369 - Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks
+2024-12-26 23:50:49,369 - Press 'Ctrl+Alt+S' to start clicking.
+2024-12-26 23:50:49,369 - Press 'Ctrl+Alt+X' to stop clicking.
+2024-12-26 23:50:49,369 - Press 'Ctrl+Alt+Q' to quit the program.
+2024-12-26 23:50:49,369 - Total clicks so far: 8617
+2024-12-26 23:50:49,582 - Listening for hotkeys...
+2024-12-26 23:50:54,799 - Using interval: 0.31 seconds for the next 6.79 seconds.
+2024-12-26 23:50:54,799 - Auto-clicker started...
+2024-12-26 23:51:13,747 - Stopping auto-clicker...
+2024-12-26 23:51:14,102 - Mouse moved to unstick.
+2024-12-26 23:51:25,197 - Auto-clicker stopped cleanly.
+2024-12-26 23:53:14,444 - Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks
+2024-12-26 23:53:14,444 - Press 'Ctrl+Alt+S' to start clicking.
+2024-12-26 23:53:14,444 - Press 'Ctrl+Alt+X' to stop clicking.
+2024-12-26 23:53:14,444 - Press 'Ctrl+Alt+Q' to quit the program.
+2024-12-26 23:53:14,444 - Total clicks so far: 8617
+2024-12-26 23:53:14,649 - Listening for hotkeys...
+2024-12-26 23:53:23,098 - Using interval: 0.30 seconds for the next 9.10 seconds.
+2024-12-26 23:53:23,098 - Auto-clicker started...
+2024-12-26 23:53:23,215 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:23,618 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:24,020 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:24,422 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:24,824 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:25,235 - Clicked at Point(x=664, y=361)
+2024-12-26 23:53:26,363 - Mouse moved to (666, 356).
+2024-12-26 23:53:26,466 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:26,870 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:27,271 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:27,673 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:28,074 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:28,499 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:28,902 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:29,303 - Clicked at Point(x=666, y=356)
+2024-12-26 23:53:30,236 - Stopping auto-clicker...
+2024-12-26 23:53:30,591 - Mouse moved to (672, 366).
+2024-12-26 23:53:30,597 - Mouse moved to unstick.
+2024-12-26 23:53:30,699 - Clicked at Point(x=680, y=373)
+2024-12-26 23:53:31,003 - Auto-clicker stopped cleanly.
+2024-12-26 23:53:35,119 - Using interval: 0.29 seconds for the next 6.14 seconds.
+2024-12-26 23:53:35,119 - Auto-clicker started...
+2024-12-26 23:53:35,271 - Clicked at Point(x=677, y=426)
+2024-12-26 23:53:36,619 - Mouse moved to (677, 433).
+2024-12-26 23:53:36,721 - Clicked at Point(x=677, y=433)
+2024-12-26 23:53:37,114 - Clicked at Point(x=677, y=433)
+2024-12-26 23:53:38,522 - Mouse moved to (684, 438).
+2024-12-26 23:53:38,623 - Clicked at Point(x=684, y=438)
+2024-12-26 23:53:39,056 - Clicked at Point(x=684, y=438)
+2024-12-26 23:53:40,469 - Mouse moved to (677, 442).
+2024-12-26 23:53:40,571 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:40,997 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:41,289 - Using interval: 0.21 seconds for the next 5.16 seconds.
+2024-12-26 23:53:41,391 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:41,714 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:42,032 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:42,349 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:42,665 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:42,982 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:43,336 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:43,762 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:44,074 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:44,397 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:44,718 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:45,051 - Clicked at Point(x=677, y=442)
+2024-12-26 23:53:46,440 - Mouse moved to (672, 437).
+2024-12-26 23:53:46,549 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:46,761 - Using interval: 0.22 seconds for the next 5.42 seconds.
+2024-12-26 23:53:46,865 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:47,223 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:47,614 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:47,949 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:48,299 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:48,632 - Clicked at Point(x=672, y=437)
+2024-12-26 23:53:49,402 - Mouse moved to (669, 430).
+2024-12-26 23:53:49,568 - Clicked at Point(x=669, y=430)
+2024-12-26 23:53:50,236 - Mouse moved to (662, 427).
+2024-12-26 23:53:50,348 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:50,736 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:51,155 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:51,484 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:51,814 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:52,200 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:52,489 - Using interval: 0.37 seconds for the next 8.84 seconds.
+2024-12-26 23:53:52,603 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:53,082 - Clicked at Point(x=662, y=427)
+2024-12-26 23:53:53,972 - Mouse moved to (657, 422).
+2024-12-26 23:53:54,078 - Clicked at Point(x=657, y=422)
+2024-12-26 23:53:54,554 - Clicked at Point(x=657, y=422)
+2024-12-26 23:53:55,035 - Clicked at Point(x=657, y=422)
+2024-12-26 23:53:55,573 - Clicked at Point(x=657, y=422)
+2024-12-26 23:53:56,090 - Clicked at Point(x=657, y=422)
+2024-12-26 23:53:57,624 - Mouse moved to (648, 431).
+2024-12-26 23:53:57,731 - Clicked at Point(x=648, y=431)
+2024-12-26 23:53:58,621 - Mouse moved to (644, 428).
+2024-12-26 23:53:58,724 - Clicked at Point(x=644, y=428)
+2024-12-26 23:53:59,204 - Clicked at Point(x=644, y=428)
+2024-12-26 23:54:00,096 - Mouse moved to (652, 418).
+2024-12-26 23:54:00,200 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:00,674 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:01,191 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:01,586 - Using interval: 0.39 seconds for the next 8.82 seconds.
+2024-12-26 23:54:01,688 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:02,196 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:02,825 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:03,323 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:03,896 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:04,421 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:04,917 - Clicked at Point(x=652, y=418)
+2024-12-26 23:54:06,567 - Mouse moved to (661, 419).
+2024-12-26 23:54:06,723 - Clicked at Point(x=661, y=419)
+2024-12-26 23:54:07,687 - Mouse moved to (664, 411).
+2024-12-26 23:54:07,790 - Clicked at Point(x=664, y=411)
+2024-12-26 23:54:08,289 - Clicked at Point(x=664, y=411)
+2024-12-26 23:54:09,298 - Mouse moved to (657, 407).
+2024-12-26 23:54:09,483 - Clicked at Point(x=657, y=407)
+2024-12-26 23:54:10,031 - Clicked at Point(x=657, y=407)
+2024-12-26 23:54:10,471 - Using interval: 0.27 seconds for the next 5.24 seconds.
+2024-12-26 23:54:11,555 - Mouse moved to (658, 409).
+2024-12-26 23:54:11,666 - Clicked at Point(x=658, y=409)
+2024-12-26 23:54:12,099 - Clicked at Point(x=658, y=409)
+2024-12-26 23:54:12,393 - Taking a break for 8.60 seconds.
+2024-12-26 23:54:22,016 - Mouse moved to (668, 414).
+2024-12-26 23:54:22,119 - Clicked at Point(x=668, y=414)
+2024-12-26 23:54:22,413 - Using interval: 0.46 seconds for the next 9.68 seconds.
+2024-12-26 23:54:22,797 - Clicked at Point(x=668, y=414)
+2024-12-26 23:54:24,057 - Mouse moved to (674, 420).
+2024-12-26 23:54:24,247 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:24,833 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:25,416 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:25,987 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:26,554 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:27,191 - Clicked at Point(x=674, y=420)
+2024-12-26 23:54:28,794 - Mouse moved to (684, 428).
+2024-12-26 23:54:28,900 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:29,506 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:30,133 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:30,829 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:31,419 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:32,014 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:32,481 - Using interval: 0.12 seconds for the next 6.48 seconds.
+2024-12-26 23:54:32,586 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:32,815 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:33,046 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:33,352 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:33,704 - Clicked at Point(x=684, y=428)
+2024-12-26 23:54:34,880 - Mouse moved to (675, 434).
+2024-12-26 23:54:34,983 - Clicked at Point(x=675, y=434)
+2024-12-26 23:54:35,214 - Clicked at Point(x=675, y=434)
+2024-12-26 23:54:35,447 - Clicked at Point(x=675, y=434)
+2024-12-26 23:54:35,672 - Clicked at Point(x=675, y=434)
+2024-12-26 23:54:35,931 - Clicked at Point(x=675, y=434)
+2024-12-26 23:54:36,957 - Mouse moved to (685, 431).
+2024-12-26 23:54:37,068 - Clicked at Point(x=685, y=431)
+2024-12-26 23:54:37,720 - Mouse moved to (683, 422).
+2024-12-26 23:54:37,822 - Clicked at Point(x=683, y=422)
+2024-12-26 23:54:38,051 - Clicked at Point(x=683, y=422)
+2024-12-26 23:54:38,286 - Clicked at Point(x=683, y=422)
+2024-12-26 23:54:38,587 - Clicked at Point(x=683, y=422)
+2024-12-26 23:54:39,516 - Mouse moved to (686, 429).
+2024-12-26 23:54:39,666 - Clicked at Point(x=686, y=429)
+2024-12-26 23:54:39,796 - Using interval: 0.31 seconds for the next 7.97 seconds.
+2024-12-26 23:54:40,528 - Mouse moved to (687, 424).
+2024-12-26 23:54:40,696 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:41,171 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:41,590 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:42,050 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:42,468 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:42,885 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:43,382 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:43,836 - Clicked at Point(x=687, y=424)
+2024-12-26 23:54:45,330 - Mouse moved to (685, 427).
+2024-12-26 23:54:45,456 - Clicked at Point(x=685, y=427)
+2024-12-26 23:54:45,934 - Clicked at Point(x=685, y=427)
+2024-12-26 23:54:46,352 - Clicked at Point(x=685, y=427)
+2024-12-26 23:54:46,851 - Clicked at Point(x=685, y=427)
+2024-12-26 23:54:47,281 - Clicked at Point(x=685, y=427)
+2024-12-26 23:54:48,274 - Mouse moved to (677, 422).
+2024-12-26 23:54:48,380 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:48,697 - Using interval: 0.45 seconds for the next 5.98 seconds.
+2024-12-26 23:54:48,802 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:49,389 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:49,940 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:50,513 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:51,107 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:51,694 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:52,266 - Clicked at Point(x=677, y=422)
+2024-12-26 23:54:53,387 - Mouse moved to (685, 426).
+2024-12-26 23:54:53,489 - Clicked at Point(x=685, y=426)
+2024-12-26 23:54:54,053 - Clicked at Point(x=685, y=426)
+2024-12-26 23:54:55,529 - Mouse moved to (676, 425).
+2024-12-26 23:54:55,631 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:56,128 - Using interval: 0.12 seconds for the next 7.49 seconds.
+2024-12-26 23:54:56,291 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:56,596 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:56,856 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:57,231 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:57,781 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:58,596 - Clicked at Point(x=676, y=425)
+2024-12-26 23:54:58,809 - Taking a break for 8.86 seconds.
+2024-12-26 23:55:07,813 - Clicked at Point(x=676, y=425)
+2024-12-26 23:55:07,931 - Using interval: 0.31 seconds for the next 7.70 seconds.
+2024-12-26 23:55:08,051 - Clicked at Point(x=676, y=425)
+2024-12-26 23:55:08,858 - Mouse moved to (673, 415).
+2024-12-26 23:55:08,965 - Clicked at Point(x=673, y=415)
+2024-12-26 23:55:09,402 - Clicked at Point(x=673, y=415)
+2024-12-26 23:55:09,847 - Clicked at Point(x=673, y=415)
+2024-12-26 23:55:10,264 - Clicked at Point(x=673, y=415)
+2024-12-26 23:55:11,056 - Mouse moved to (664, 418).
+2024-12-26 23:55:11,184 - Clicked at Point(x=664, y=418)
+2024-12-26 23:55:11,598 - Clicked at Point(x=664, y=418)
+2024-12-26 23:55:12,872 - Mouse moved to (659, 413).
+2024-12-26 23:55:12,976 - Clicked at Point(x=659, y=413)
+2024-12-26 23:55:14,115 - Mouse moved to (665, 414).
+2024-12-26 23:55:14,217 - Clicked at Point(x=665, y=414)
+2024-12-26 23:55:14,692 - Clicked at Point(x=665, y=414)
+2024-12-26 23:55:15,108 - Clicked at Point(x=665, y=414)
+2024-12-26 23:55:16,699 - Mouse moved to (655, 416).
+2024-12-26 23:55:16,817 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:17,204 - Using interval: 0.28 seconds for the next 8.17 seconds.
+2024-12-26 23:55:17,313 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:17,696 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:18,082 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:18,498 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:18,897 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:19,285 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:19,706 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:20,148 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:20,532 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:20,986 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:21,413 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:21,798 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:22,186 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:22,648 - Clicked at Point(x=655, y=416)
+2024-12-26 23:55:24,146 - Mouse moved to (664, 407).
+2024-12-26 23:55:24,250 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:24,655 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:25,114 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:25,392 - Using interval: 0.15 seconds for the next 6.00 seconds.
+2024-12-26 23:55:25,498 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:25,787 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:26,174 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:26,480 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:26,738 - Clicked at Point(x=664, y=407)
+2024-12-26 23:55:27,684 - Mouse moved to (674, 397).
+2024-12-26 23:55:27,786 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:28,047 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:28,331 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:28,679 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:28,936 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:29,197 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:29,456 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:29,751 - Clicked at Point(x=674, y=397)
+2024-12-26 23:55:30,401 - Mouse moved to (672, 388).
+2024-12-26 23:55:30,506 - Clicked at Point(x=672, y=388)
+2024-12-26 23:55:31,517 - Mouse moved to (669, 385).
+2024-12-26 23:55:31,619 - Clicked at Point(x=669, y=385)
+2024-12-26 23:55:31,776 - Using interval: 0.16 seconds for the next 9.60 seconds.
+2024-12-26 23:55:32,923 - Mouse moved to (663, 383).
+2024-12-26 23:55:33,030 - Clicked at Point(x=663, y=383)
+2024-12-26 23:55:33,850 - Mouse moved to (663, 373).
+2024-12-26 23:55:33,952 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:34,214 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:34,480 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:34,803 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:35,120 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:35,382 - Clicked at Point(x=663, y=373)
+2024-12-26 23:55:36,762 - Mouse moved to (658, 373).
+2024-12-26 23:55:36,864 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:37,520 - Mouse moved to (658, 372).
+2024-12-26 23:55:37,651 - Clicked at Point(x=658, y=372)
+2024-12-26 23:55:37,820 - Taking a break for 4.40 seconds.
+2024-12-26 23:55:42,360 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:42,537 - Using interval: 0.48 seconds for the next 5.46 seconds.
+2024-12-26 23:55:42,648 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:43,254 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:43,849 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:44,496 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:45,124 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:45,748 - Clicked at Point(x=658, y=373)
+2024-12-26 23:55:46,712 - Mouse moved to (648, 372).
+2024-12-26 23:55:46,855 - Clicked at Point(x=648, y=372)
+2024-12-26 23:55:48,032 - Mouse moved to (639, 373).
+2024-12-26 23:55:48,184 - Clicked at Point(x=639, y=373)
+2024-12-26 23:55:48,668 - Using interval: 0.48 seconds for the next 5.36 seconds.
+2024-12-26 23:55:48,800 - Clicked at Point(x=639, y=373)
+2024-12-26 23:55:49,431 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:50,027 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:50,651 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:51,247 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:51,849 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:52,432 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:53,150 - Clicked at Point(x=795, y=422)
+2024-12-26 23:55:54,866 - Mouse moved to (792, 428).
+2024-12-26 23:55:54,985 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:55,526 - Using interval: 0.16 seconds for the next 7.30 seconds.
+2024-12-26 23:55:55,630 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:55,899 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:56,216 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:56,546 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:56,815 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:57,083 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:57,366 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:57,689 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:57,956 - Clicked at Point(x=792, y=428)
+2024-12-26 23:55:58,636 - Mouse moved to (799, 432).
+2024-12-26 23:55:58,779 - Clicked at Point(x=799, y=432)
+2024-12-26 23:55:59,117 - Clicked at Point(x=799, y=432)
+2024-12-26 23:56:00,440 - Mouse moved to (803, 424).
+2024-12-26 23:56:00,546 - Clicked at Point(x=803, y=424)
+2024-12-26 23:56:01,304 - Mouse moved to (800, 425).
+2024-12-26 23:56:01,422 - Clicked at Point(x=800, y=425)
+2024-12-26 23:56:01,688 - Clicked at Point(x=800, y=425)
+2024-12-26 23:56:02,988 - Mouse moved to (791, 417).
+2024-12-26 23:56:03,090 - Clicked at Point(x=791, y=417)
+2024-12-26 23:56:03,266 - Using interval: 0.18 seconds for the next 6.69 seconds.
+2024-12-26 23:56:03,816 - Mouse moved to (789, 408).
+2024-12-26 23:56:03,919 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:04,199 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:04,516 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:04,884 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:05,231 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:05,513 - Clicked at Point(x=789, y=408)
+2024-12-26 23:56:06,707 - Mouse moved to (797, 415).
+2024-12-26 23:56:06,814 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:07,169 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:07,549 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:07,830 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:08,113 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:08,434 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:08,716 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:09,015 - Clicked at Point(x=797, y=415)
+2024-12-26 23:56:10,113 - Mouse moved to (806, 423).
+2024-12-26 23:56:10,218 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:10,398 - Using interval: 0.34 seconds for the next 5.09 seconds.
+2024-12-26 23:56:10,501 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:10,966 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:11,466 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:11,913 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:12,416 - Clicked at Point(x=806, y=423)
+2024-12-26 23:56:13,851 - Mouse moved to (800, 432).
+2024-12-26 23:56:13,953 - Clicked at Point(x=800, y=432)
+2024-12-26 23:56:14,449 - Clicked at Point(x=800, y=432)
+2024-12-26 23:56:15,528 - Mouse moved to (794, 435).
+2024-12-26 23:56:15,669 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:16,014 - Using interval: 0.26 seconds for the next 9.20 seconds.
+2024-12-26 23:56:16,117 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:16,483 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:16,896 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:17,284 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:17,651 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:18,046 - Clicked at Point(x=794, y=435)
+2024-12-26 23:56:19,286 - Mouse moved to (785, 425).
+2024-12-26 23:56:19,449 - Clicked at Point(x=785, y=425)
+2024-12-26 23:56:19,868 - Clicked at Point(x=785, y=425)
+2024-12-26 23:56:20,969 - Mouse moved to (791, 430).
+2024-12-26 23:56:21,071 - Clicked at Point(x=791, y=430)
+2024-12-26 23:56:21,439 - Clicked at Point(x=791, y=430)
+2024-12-26 23:56:21,850 - Clicked at Point(x=791, y=430)
+2024-12-26 23:56:22,246 - Clicked at Point(x=791, y=430)
+2024-12-26 23:56:22,615 - Clicked at Point(x=791, y=430)
+2024-12-26 23:56:23,705 - Mouse moved to (796, 428).
+2024-12-26 23:56:23,807 - Clicked at Point(x=796, y=428)
+2024-12-26 23:56:24,218 - Clicked at Point(x=796, y=428)
+2024-12-26 23:56:24,603 - Clicked at Point(x=796, y=428)
+2024-12-26 23:56:24,970 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:25,235 - Using interval: 0.38 seconds for the next 6.94 seconds.
+2024-12-26 23:56:25,411 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:25,948 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:26,449 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:26,991 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:27,482 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:28,086 - Clicked at Point(x=796, y=436)
+2024-12-26 23:56:29,306 - Mouse moved to (786, 444).
+2024-12-26 23:56:29,413 - Clicked at Point(x=786, y=444)
+2024-12-26 23:56:30,929 - Mouse moved to (782, 445).
+2024-12-26 23:56:31,032 - Clicked at Point(x=782, y=445)
+2024-12-26 23:56:32,251 - Mouse moved to (781, 438).
+2024-12-26 23:56:32,436 - Clicked at Point(x=781, y=438)
+2024-12-26 23:56:32,876 - Using interval: 0.42 seconds for the next 8.65 seconds.
+2024-12-26 23:56:32,980 - Clicked at Point(x=781, y=438)
+2024-12-26 23:56:33,427 - Taking a break for 2.04 seconds.
+2024-12-26 23:56:35,662 - Clicked at Point(x=781, y=438)
+2024-12-26 23:56:36,246 - Clicked at Point(x=781, y=438)
+2024-12-26 23:56:37,766 - Mouse moved to (774, 429).
+2024-12-26 23:56:37,868 - Clicked at Point(x=774, y=429)
+2024-12-26 23:56:38,397 - Clicked at Point(x=774, y=429)
+2024-12-26 23:56:38,928 - Clicked at Point(x=774, y=429)
+2024-12-26 23:56:39,496 - Clicked at Point(x=774, y=429)
+2024-12-26 23:56:40,822 - Mouse moved to (767, 425).
+2024-12-26 23:56:40,924 - Clicked at Point(x=767, y=425)
+2024-12-26 23:56:41,485 - Clicked at Point(x=767, y=425)
+2024-12-26 23:56:41,911 - Using interval: 0.43 seconds for the next 9.87 seconds.
+2024-12-26 23:56:42,806 - Mouse moved to (767, 417).
+2024-12-26 23:56:42,914 - Clicked at Point(x=767, y=417)
+2024-12-26 23:56:43,485 - Clicked at Point(x=767, y=417)
+2024-12-26 23:56:44,058 - Clicked at Point(x=767, y=417)
+2024-12-26 23:56:45,146 - Mouse moved to (779, 431).
+2024-12-26 23:56:45,250 - Clicked at Point(x=779, y=431)
+2024-12-26 23:56:45,789 - Clicked at Point(x=779, y=431)
+2024-12-26 23:56:46,341 - Clicked at Point(x=779, y=431)
+2024-12-26 23:56:47,796 - Mouse moved to (777, 434).
+2024-12-26 23:56:47,898 - Clicked at Point(x=777, y=434)
+2024-12-26 23:56:48,461 - Clicked at Point(x=777, y=434)
+2024-12-26 23:56:49,022 - Clicked at Point(x=777, y=434)
+2024-12-26 23:56:49,586 - Clicked at Point(x=777, y=434)
+2024-12-26 23:56:50,148 - Clicked at Point(x=777, y=434)
+2024-12-26 23:56:51,451 - Mouse moved to (767, 426).
+2024-12-26 23:56:51,554 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:51,997 - Using interval: 0.20 seconds for the next 6.14 seconds.
+2024-12-26 23:56:52,166 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:52,515 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:52,814 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:53,114 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:53,456 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:53,803 - Clicked at Point(x=767, y=426)
+2024-12-26 23:56:54,835 - Mouse moved to (769, 417).
+2024-12-26 23:56:54,951 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:55,255 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:55,555 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:55,916 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:56,377 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:56,748 - Clicked at Point(x=769, y=417)
+2024-12-26 23:56:57,679 - Mouse moved to (770, 421).
+2024-12-26 23:56:57,781 - Clicked at Point(x=770, y=421)
+2024-12-26 23:56:58,637 - Mouse moved to (773, 427).
+2024-12-26 23:56:58,741 - Clicked at Point(x=773, y=427)
+2024-12-26 23:56:58,961 - Using interval: 0.20 seconds for the next 7.52 seconds.
+2024-12-26 23:56:59,066 - Clicked at Point(x=773, y=427)
+2024-12-26 23:56:59,374 - Clicked at Point(x=773, y=427)
+2024-12-26 23:56:59,685 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:00,062 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:00,391 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:00,701 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:01,008 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:01,356 - Clicked at Point(x=773, y=427)
+2024-12-26 23:57:02,271 - Mouse moved to (780, 424).
+2024-12-26 23:57:02,373 - Clicked at Point(x=780, y=424)
+2024-12-26 23:57:02,736 - Clicked at Point(x=778, y=424)
+2024-12-26 23:57:03,099 - Clicked at Point(x=778, y=425)
+2024-12-26 23:57:03,404 - Clicked at Point(x=778, y=425)
+2024-12-26 23:57:04,600 - Mouse moved to (781, 424).
+2024-12-26 23:57:04,702 - Clicked at Point(x=781, y=424)
+2024-12-26 23:57:05,011 - Clicked at Point(x=781, y=417)
+2024-12-26 23:57:05,322 - Clicked at Point(x=781, y=417)
+2024-12-26 23:57:06,277 - Mouse moved to (783, 415).
+2024-12-26 23:57:06,382 - Clicked at Point(x=783, y=415)
+2024-12-26 23:57:06,587 - Using interval: 0.37 seconds for the next 6.37 seconds.
+2024-12-26 23:57:07,479 - Mouse moved to (786, 408).
+2024-12-26 23:57:07,584 - Clicked at Point(x=786, y=408)
+2024-12-26 23:57:08,727 - Mouse moved to (782, 403).
+2024-12-26 23:57:08,833 - Clicked at Point(x=782, y=403)
+2024-12-26 23:57:09,648 - Mouse moved to (788, 397).
+2024-12-26 23:57:09,787 - Clicked at Point(x=788, y=397)
+2024-12-26 23:57:10,270 - Clicked at Point(x=788, y=397)
+2024-12-26 23:57:11,731 - Mouse moved to (796, 393).
+2024-12-26 23:57:11,833 - Clicked at Point(x=796, y=393)
+2024-12-26 23:57:12,638 - Mouse moved to (786, 397).
+2024-12-26 23:57:12,740 - Clicked at Point(x=786, y=397)
+2024-12-26 23:57:13,114 - Using interval: 0.30 seconds for the next 7.78 seconds.
+2024-12-26 23:57:13,217 - Clicked at Point(x=786, y=397)
+2024-12-26 23:57:13,536 - Taking a break for 3.27 seconds.
+2024-12-26 23:57:16,919 - Clicked at Point(x=786, y=397)
+2024-12-26 23:57:17,676 - Mouse moved to (778, 395).
+2024-12-26 23:57:17,791 - Clicked at Point(x=778, y=395)
+2024-12-26 23:57:18,200 - Clicked at Point(x=778, y=395)
+2024-12-26 23:57:18,626 - Clicked at Point(x=778, y=395)
+2024-12-26 23:57:19,071 - Clicked at Point(x=778, y=395)
+2024-12-26 23:57:19,524 - Clicked at Point(x=778, y=395)
+2024-12-26 23:57:20,766 - Mouse moved to (784, 385).
+2024-12-26 23:57:20,868 - Clicked at Point(x=784, y=385)
+2024-12-26 23:57:21,172 - Using interval: 0.17 seconds for the next 9.75 seconds.
+2024-12-26 23:57:21,667 - Mouse moved to (786, 385).
+2024-12-26 23:57:21,770 - Clicked at Point(x=786, y=385)
+2024-12-26 23:57:22,041 - Clicked at Point(x=786, y=385)
+2024-12-26 23:57:23,118 - Mouse moved to (781, 388).
+2024-12-26 23:57:23,220 - Clicked at Point(x=781, y=393)
+2024-12-26 23:57:23,551 - Clicked at Point(x=781, y=393)
+2024-12-26 23:57:23,856 - Clicked at Point(x=781, y=393)
+2024-12-26 23:57:24,157 - Clicked at Point(x=781, y=401)
+2024-12-26 23:57:24,433 - Clicked at Point(x=781, y=399)
+2024-12-26 23:57:24,704 - Clicked at Point(x=781, y=399)
+2024-12-26 23:57:25,979 - Mouse moved to (786, 390).
+2024-12-26 23:57:26,136 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:26,489 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:26,763 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:27,040 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:27,317 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:27,668 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:27,981 - Clicked at Point(x=786, y=390)
+2024-12-26 23:57:28,745 - Mouse moved to (776, 399).
+2024-12-26 23:57:28,851 - Clicked at Point(x=776, y=399)
+2024-12-26 23:57:29,186 - Clicked at Point(x=776, y=399)
+2024-12-26 23:57:29,798 - Mouse moved to (769, 401).
+2024-12-26 23:57:29,900 - Clicked at Point(x=769, y=401)
+2024-12-26 23:57:30,171 - Clicked at Point(x=769, y=401)
+2024-12-26 23:57:30,446 - Clicked at Point(x=769, y=401)
+2024-12-26 23:57:30,735 - Clicked at Point(x=769, y=401)
+2024-12-26 23:57:30,994 - Using interval: 0.18 seconds for the next 7.43 seconds.
+2024-12-26 23:57:31,107 - Clicked at Point(x=769, y=401)
+2024-12-26 23:57:31,834 - Mouse moved to (759, 405).
+2024-12-26 23:57:31,994 - Clicked at Point(x=759, y=405)
+2024-12-26 23:57:32,363 - Clicked at Point(x=759, y=405)
+2024-12-26 23:57:33,588 - Mouse moved to (751, 412).
+2024-12-26 23:57:33,689 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:33,981 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:34,343 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:34,686 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:34,974 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:35,265 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:35,614 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:35,990 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:36,281 - Clicked at Point(x=751, y=412)
+2024-12-26 23:57:37,279 - Mouse moved to (760, 421).
+2024-12-26 23:57:37,381 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:37,669 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:37,967 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:38,286 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:38,530 - Using interval: 0.40 seconds for the next 5.44 seconds.
+2024-12-26 23:57:38,633 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:39,138 - Clicked at Point(x=760, y=421)
+2024-12-26 23:57:39,828 - Stopping auto-clicker...
+2024-12-26 23:57:40,182 - Mouse moved to unstick.
+2024-12-26 23:57:40,396 - Mouse moved to (756, 417).
+2024-12-26 23:57:40,536 - Clicked at Point(x=756, y=417)
+2024-12-26 23:57:40,986 - Auto-clicker stopped cleanly.
+2024-12-26 23:58:02,131 - Using interval: 0.24 seconds for the next 5.47 seconds.
+2024-12-26 23:58:02,131 - Auto-clicker started...
+2024-12-26 23:58:03,114 - Clicked at Point(x=861, y=415)
+2024-12-26 23:58:05,814 - Mouse moved to (861, 419).
+2024-12-26 23:58:06,297 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:07,112 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:07,537 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:07,879 - Using interval: 0.41 seconds for the next 6.33 seconds.
+2024-12-26 23:58:08,179 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:08,933 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:09,631 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:10,387 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:10,936 - Clicked at Point(x=861, y=419)
+2024-12-26 23:58:12,817 - Mouse moved to (864, 428).
+2024-12-26 23:58:12,987 - Clicked at Point(x=864, y=428)
+2024-12-26 23:58:14,000 - Mouse moved to (859, 429).
+2024-12-26 23:58:14,102 - Clicked at Point(x=859, y=429)
+2024-12-26 23:58:14,108 - Stopping auto-clicker...
+2024-12-26 23:58:14,466 - Mouse moved to unstick.
+2024-12-26 23:58:14,511 - Auto-clicker stopped cleanly.
+2024-12-26 23:58:29,410 - Using interval: 0.45 seconds for the next 7.54 seconds.
+2024-12-26 23:58:29,410 - Auto-clicker started...
+2024-12-26 23:58:29,550 - Clicked at Point(x=685, y=426)
+2024-12-26 23:58:30,106 - Clicked at Point(x=685, y=426)
+2024-12-26 23:58:30,691 - Clicked at Point(x=685, y=426)
+2024-12-26 23:58:31,280 - Clicked at Point(x=685, y=426)
+2024-12-26 23:58:31,896 - Clicked at Point(x=685, y=426)
+2024-12-26 23:58:33,020 - Mouse moved to (681, 429).
+2024-12-26 23:58:33,122 - Clicked at Point(x=681, y=429)
+2024-12-26 23:58:33,684 - Clicked at Point(x=681, y=429)
+2024-12-26 23:58:34,282 - Clicked at Point(x=681, y=429)
+2024-12-26 23:58:34,839 - Clicked at Point(x=681, y=429)
+2024-12-26 23:58:35,396 - Clicked at Point(x=681, y=429)
+2024-12-26 23:58:35,709 - Stopping auto-clicker...
+2024-12-26 23:58:35,872 - Auto-clicker stopped cleanly.
+2024-12-26 23:58:36,068 - Mouse moved to unstick.
+2024-12-27 00:01:24,115 - Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks
+2024-12-27 00:01:24,115 - Press 'Ctrl+Alt+S' to start clicking.
+2024-12-27 00:01:24,115 - Press 'Ctrl+Alt+X' to stop clicking.
+2024-12-27 00:01:24,115 - Press 'Ctrl+Alt+Q' to quit the program.
+2024-12-27 00:01:24,115 - Total clicks so far: 9014
+2024-12-27 00:01:24,352 - Listening for hotkeys...
+2024-12-27 00:01:30,922 - Using interval: 0.33 seconds for the next 5.86 seconds.
+2024-12-27 00:01:30,922 - Auto-clicker started...
+2024-12-27 00:01:31,730 - Clicked at (497, 500)
+2024-12-27 00:01:33,188 - Mouse moved to (496, 490).
+2024-12-27 00:01:34,002 - Clicked at (495, 502)
+2024-12-27 00:01:34,810 - Mouse moved to (494, 512).
+2024-12-27 00:01:35,562 - Clicked at (498, 501)
+2024-12-27 00:01:36,598 - Clicked at (495, 500)
+2024-12-27 00:01:36,930 - Using interval: 0.19 seconds for the next 9.38 seconds.
+2024-12-27 00:01:38,046 - Clicked at (495, 495)
+2024-12-27 00:01:39,173 - Clicked at (499, 495)
+2024-12-27 00:01:40,372 - Clicked at (501, 497)
+2024-12-27 00:01:41,668 - Clicked at (496, 499)
+2024-12-27 00:01:42,440 - Stopping auto-clicker...
+2024-12-27 00:01:42,796 - Clicked at (498, 502)
+2024-12-27 00:01:42,800 - Mouse moved to unstick.
+2024-12-27 00:01:42,989 - Auto-clicker stopped cleanly.
+2024-12-27 00:02:59,278 - Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks
+2024-12-27 00:02:59,278 - Press 'Ctrl+Alt+S' to start clicking.
+2024-12-27 00:02:59,278 - Press 'Ctrl+Alt+X' to stop clicking.
+2024-12-27 00:02:59,278 - Press 'Ctrl+Alt+Q' to quit the program.
+2024-12-27 00:02:59,278 - Total clicks so far: 9023
+2024-12-27 00:02:59,545 - Listening for hotkeys...
+2024-12-27 00:03:02,446 - Using interval: 0.16 seconds for the next 5.95 seconds.
+2024-12-27 00:03:02,446 - Auto-clicker started...
+2024-12-27 00:03:03,114 - Clicked at (505, 500)
+2024-12-27 00:03:03,970 - Clicked at (497, 497)
+2024-12-27 00:03:04,737 - Clicked at (501, 501)
+2024-12-27 00:03:05,462 - Mouse moved to (505, 495).
+2024-12-27 00:03:06,149 - Clicked at (496, 503)
+2024-12-27 00:03:06,931 - Mouse moved to (488, 510).
+2024-12-27 00:03:07,636 - Clicked at (501, 501)
+2024-12-27 00:03:08,429 - Clicked at (499, 501)
+2024-12-27 00:03:08,589 - Using interval: 0.10 seconds for the next 6.43 seconds.
+2024-12-27 00:03:08,997 - Clicked at (498, 499)
+2024-12-27 00:03:09,767 - Clicked at (503, 495)
+2024-12-27 00:03:10,338 - Mouse moved to (495, 501).
+2024-12-27 00:03:11,165 - Clicked at (502, 497)
+2024-12-27 00:03:11,561 - Mouse moved to (511, 496).
+2024-12-27 00:03:12,014 - Clicked at (496, 498)
+2024-12-27 00:03:12,570 - Mouse moved to (504, 488).
+2024-12-27 00:03:13,264 - Clicked at (505, 502)
+2024-12-27 00:03:13,946 - Clicked at (499, 504)
+2024-12-27 00:03:14,845 - Clicked at (505, 495)
+2024-12-27 00:03:15,601 - Clicked at (498, 505)
+2024-12-27 00:03:15,703 - Using interval: 0.18 seconds for the next 5.81 seconds.
+2024-12-27 00:03:16,269 - Clicked at (505, 498)
+2024-12-27 00:03:16,917 - Clicked at (495, 505)
+2024-12-27 00:03:17,411 - Mouse moved to (496, 505).
+2024-12-27 00:03:18,149 - Clicked at (505, 502)
+2024-12-27 00:03:18,946 - Clicked at (503, 496)
+2024-12-27 00:03:19,753 - Clicked at (502, 495)
+2024-12-27 00:03:20,225 - Mouse moved to (501, 498).
+2024-12-27 00:03:20,983 - Clicked at (495, 504)
+2024-12-27 00:03:21,896 - Clicked at (495, 504)
+2024-12-27 00:03:22,083 - Using interval: 0.07 seconds for the next 4.67 seconds.
+2024-12-27 00:03:22,902 - Clicked at (502, 496)
+2024-12-27 00:03:23,455 - Clicked at (503, 505)
+2024-12-27 00:03:23,836 - Mouse moved to (512, 499).
+2024-12-27 00:03:24,531 - Clicked at (504, 502)
+2024-12-27 00:03:25,401 - Clicked at (504, 498)
+2024-12-27 00:03:25,469 - Taking a break for 2.09 seconds.
+2024-12-27 00:03:28,228 - Clicked at (495, 503)
+2024-12-27 00:03:28,256 - Stopping auto-clicker...
+2024-12-27 00:03:28,296 - Auto-clicker stopped cleanly.
+2024-12-27 00:03:28,617 - Mouse moved to unstick.
+2024-12-27 00:04:55,599 - Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks
+2024-12-27 00:04:55,599 - Press 'Ctrl+Alt+S' to start clicking.
+2024-12-27 00:04:55,599 - Press 'Ctrl+Alt+X' to stop clicking.
+2024-12-27 00:04:55,599 - Press 'Ctrl+Alt+Q' to quit the program.
+2024-12-27 00:04:55,599 - Total clicks so far: 9049
+2024-12-27 00:04:55,952 - Listening for hotkeys...
+2024-12-27 00:04:59,217 - Using interval: 0.08 seconds for the next 6.15 seconds.
+2024-12-27 00:04:59,217 - Auto-clicker started...
+2024-12-27 00:04:59,888 - Clicked at (500, 500)
+2024-12-27 00:05:00,655 - Clicked at (500, 500)
+2024-12-27 00:05:01,296 - Clicked at (500, 500)
+2024-12-27 00:05:01,850 - Clicked at (500, 500)
+2024-12-27 00:05:02,670 - Clicked at (500, 500)
+2024-12-27 00:05:03,223 - Clicked at (500, 500)
+2024-12-27 00:05:04,020 - Clicked at (500, 500)
+2024-12-27 00:05:04,784 - Clicked at (500, 500)
+2024-12-27 00:05:05,566 - Clicked at (500, 500)
+2024-12-27 00:05:05,646 - Using interval: 0.17 seconds for the next 6.32 seconds.
+2024-12-27 00:05:06,354 - Clicked at (500, 500)
+2024-12-27 00:05:06,913 - Clicked at (500, 500)
+2024-12-27 00:05:07,562 - Clicked at (500, 500)
+2024-12-27 00:05:08,383 - Clicked at (500, 500)
+2024-12-27 00:05:09,005 - Clicked at (500, 500)
+2024-12-27 00:05:09,867 - Clicked at (500, 500)
+2024-12-27 00:05:10,528 - Clicked at (500, 500)
+2024-12-27 00:05:11,482 - Clicked at (500, 500)
+2024-12-27 00:05:12,362 - Clicked at (500, 500)
+2024-12-27 00:05:12,533 - Using interval: 0.10 seconds for the next 4.13 seconds.
+2024-12-27 00:05:13,182 - Clicked at (500, 500)
+2024-12-27 00:05:13,896 - Clicked at (500, 500)
+2024-12-27 00:05:14,729 - Clicked at (500, 500)
+2024-12-27 00:05:15,514 - Clicked at (500, 500)
+2024-12-27 00:05:16,031 - Clicked at (500, 500)
+2024-12-27 00:05:16,509 - Clicked at (500, 500)
+2024-12-27 00:05:17,304 - Clicked at (500, 500)
+2024-12-27 00:05:17,436 - Using interval: 0.10 seconds for the next 4.06 seconds.
+2024-12-27 00:05:18,082 - Clicked at (500, 500)
+2024-12-27 00:05:18,862 - Clicked at (500, 500)
+2024-12-27 00:05:19,404 - Clicked at (500, 500)
+2024-12-27 00:05:19,987 - Clicked at (500, 500)
+2024-12-27 00:05:20,482 - Clicked at (500, 500)
+2024-12-27 00:05:21,389 - Clicked at (500, 500)
+2024-12-27 00:05:21,559 - Using interval: 0.06 seconds for the next 6.56 seconds.
+2024-12-27 00:05:22,189 - Clicked at (500, 500)
+2024-12-27 00:05:22,961 - Clicked at (500, 500)
+2024-12-27 00:05:23,712 - Clicked at (500, 500)
+2024-12-27 00:05:24,434 - Clicked at (500, 500)
+2024-12-27 00:05:25,149 - Clicked at (500, 500)
+2024-12-27 00:05:25,835 - Clicked at (500, 500)
+2024-12-27 00:05:26,269 - Clicked at (500, 500)
+2024-12-27 00:05:26,864 - Clicked at (500, 500)
+2024-12-27 00:05:27,679 - Clicked at (500, 500)
+2024-12-27 00:05:27,742 - Taking a break for 3.23 seconds.
+2024-12-27 00:05:31,596 - Clicked at (500, 500)
+2024-12-27 00:05:31,656 - Using interval: 0.18 seconds for the next 5.18 seconds.
+2024-12-27 00:05:32,331 - Clicked at (500, 500)
+2024-12-27 00:05:33,155 - Clicked at (500, 500)
+2024-12-27 00:05:34,047 - Clicked at (500, 500)
+2024-12-27 00:05:34,994 - Clicked at (500, 500)
+2024-12-27 00:05:35,665 - Clicked at (500, 500)
+2024-12-27 00:05:36,266 - Clicked at (500, 500)
+2024-12-27 00:05:37,063 - Clicked at (500, 500)
+2024-12-27 00:05:37,258 - Using interval: 0.11 seconds for the next 5.67 seconds.
+2024-12-27 00:05:38,028 - Clicked at (500, 500)
+2024-12-27 00:05:38,584 - Clicked at (500, 500)
+2024-12-27 00:05:39,194 - Clicked at (500, 500)
+2024-12-27 00:05:39,746 - Clicked at (500, 500)
+2024-12-27 00:05:40,596 - Clicked at (500, 500)
+2024-12-27 00:05:41,122 - Clicked at (500, 500)
+2024-12-27 00:05:41,960 - Clicked at (500, 500)
+2024-12-27 00:05:42,755 - Clicked at (500, 500)
+2024-12-27 00:05:43,517 - Clicked at (500, 500)
+2024-12-27 00:05:43,630 - Using interval: 0.08 seconds for the next 4.15 seconds.
+2024-12-27 00:05:44,344 - Clicked at (500, 500)
+2024-12-27 00:05:45,161 - Clicked at (500, 500)
+2024-12-27 00:05:45,631 - Clicked at (500, 500)
+2024-12-27 00:05:46,211 - Clicked at (500, 500)
+2024-12-27 00:05:47,086 - Clicked at (500, 500)
+2024-12-27 00:05:47,899 - Clicked at (500, 500)
+2024-12-27 00:05:47,981 - Using interval: 0.17 seconds for the next 3.49 seconds.
+2024-12-27 00:05:48,399 - Clicked at (500, 500)
+2024-12-27 00:05:49,334 - Clicked at (500, 500)
+2024-12-27 00:05:50,234 - Clicked at (500, 500)
+2024-12-27 00:05:51,118 - Clicked at (500, 500)
+2024-12-27 00:05:51,287 - Taking a break for 2.47 seconds.
+2024-12-27 00:05:54,465 - Clicked at (500, 500)
+2024-12-27 00:05:54,697 - Using interval: 0.13 seconds for the next 4.37 seconds.
+2024-12-27 00:05:55,338 - Clicked at (500, 500)
+2024-12-27 00:05:55,987 - Clicked at (500, 500)
+2024-12-27 00:05:56,615 - Clicked at (500, 500)
+2024-12-27 00:05:57,489 - Clicked at (500, 500)
+2024-12-27 00:05:58,249 - Clicked at (500, 500)
+2024-12-27 00:05:59,162 - Clicked at (500, 500)
+2024-12-27 00:05:59,299 - Using interval: 0.15 seconds for the next 3.47 seconds.
+2024-12-27 00:05:59,989 - Clicked at (500, 500)
+2024-12-27 00:06:00,633 - Clicked at (500, 500)
+2024-12-27 00:06:01,529 - Clicked at (500, 500)
+2024-12-27 00:06:02,424 - Clicked at (500, 500)
+2024-12-27 00:06:03,046 - Clicked at (500, 500)
+2024-12-27 00:06:03,194 - Using interval: 0.15 seconds for the next 6.15 seconds.
+2024-12-27 00:06:03,709 - Clicked at (500, 500)
+2024-12-27 00:06:04,582 - Clicked at (500, 500)
+2024-12-27 00:06:05,413 - Clicked at (500, 500)
+2024-12-27 00:06:06,164 - Stopping auto-clicker...
+2024-12-27 00:06:06,219 - Clicked at (500, 500)
+2024-12-27 00:06:06,419 - Auto-clicker stopped cleanly.
+2024-12-27 00:06:06,606 - Mouse moved to unstick.

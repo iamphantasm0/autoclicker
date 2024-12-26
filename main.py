@@ -13,6 +13,11 @@ logging.basicConfig(filename='clicker_log.txt', level=logging.INFO, format='%(as
 running = False
 total_clicks_file = 'total_clicks.txt'
 
+# Custom function to log and print messages
+def log_and_print(message):
+    logging.info(message)
+    print(message)
+
 # Function to read the total clicks from the file (or initialize to 0 if it doesn't exist)
 def read_total_clicks():
     if os.path.exists(total_clicks_file):
@@ -29,53 +34,84 @@ def save_total_clicks(total_clicks):
 # Initialize the total clicks count
 total_clicks = read_total_clicks()
 
+# Function to simulate a human-like click (without extra mouse movement)
+def simulate_human_click():
+    # Simulate mouse click at a fixed position (no extra movement)
+    x, y = 500, 500  # Adjust these values to your target position
+    pyautogui.moveTo(x, y, duration=random.uniform(0.05, 0.2))  # Minimal movement to prevent webpage from shaking
+
+    # Add a small random delay before clicking to mimic human behavior
+    time.sleep(random.uniform(0.03, 0.1))  # Slight delay before clicking
+
+    # Simulate mouse down and up
+    pyautogui.mouseDown()
+    time.sleep(random.uniform(0.03, 0.1))  # Slight delay between down and up
+    pyautogui.mouseUp()
+
+    log_and_print(f"Clicked at ({x}, {y})")
+
 def auto_click():
     global running, total_clicks
-    while running:
-        # Generate a random interval and duration
-        interval = random.uniform(0.1, 0.5)  # Random interval between clicks
-        duration = random.uniform(5, 10)    # Random duration to stay on this interval (in seconds)
-        
-        # Log the generated interval and duration to a file
-        logging.info(f"Using interval: {interval:.2f} seconds for the next {duration:.2f} seconds.")
-        
-        # Print the generated interval and duration to the console
-        print(f"Using interval: {interval:.2f} seconds for the next {duration:.2f} seconds.")
-        
-        start_time = time.time()
+    last_break_time = time.time()  # Track the last time a break was taken
+    min_time_between_breaks = 20  # Reduce minimum time between breaks in seconds
 
-        # Click repeatedly for the specified duration
-        while running and (time.time() - start_time) < duration:
-            pyautogui.click()
-            total_clicks += 1  # Increment the total click count
-            save_total_clicks(total_clicks)  # Save the updated click count to the file
-            time.sleep(interval)
+    try:
+        while running:
+            # Generate a random interval and duration
+            interval = random.uniform(0.05, 0.2)  # Faster random interval between clicks
+            duration = random.uniform(3, 7)       # Faster, shorter duration to stay on this interval (in seconds)
+            
+            log_and_print(f"Using interval: {interval:.2f} seconds for the next {duration:.2f} seconds.")
+            
+            start_time = time.time()
+
+            # Click repeatedly for the specified duration
+            while running and (time.time() - start_time) < duration:
+                if (time.time() - last_break_time) > min_time_between_breaks and random.random() < 0.1:  # 10% chance
+                    break_duration = random.uniform(1, 5)  # Shorter break duration (1 to 5 seconds)
+                    log_and_print(f"Taking a break for {break_duration:.2f} seconds.")
+                    time.sleep(break_duration)
+                    last_break_time = time.time()  # Update the last break time
+
+                # Perform the human-like click
+                simulate_human_click()
+                total_clicks += 1
+                save_total_clicks(total_clicks)  # Save the updated click count to the file
+                time.sleep(interval)
+    except KeyboardInterrupt:
+        log_and_print("Auto-clicker interrupted.")
+    finally:
+        log_and_print("Auto-clicker stopped cleanly.")  # Ensures clean exit
 
 def start_clicking():
     global running
     if not running:
         running = True
-        threading.Thread(target=auto_click).start()
-        print("Auto-clicker started...")
+        threading.Thread(target=auto_click, daemon=True).start()
+        log_and_print("Auto-clicker started...")
 
 def stop_clicking():
     global running
-    running = False
-    print("Auto-clicker stopped...")
+    if running:
+        running = False
+        log_and_print("Stopping auto-clicker...")
+        # Move mouse slightly to "unstick" it
+        pyautogui.moveRel(10, 10, duration=0.2)
+        log_and_print("Mouse moved to unstick.")
 
 def main():
-    print("Advanced Random Interval Auto Clicker")
-    print("Press 'Ctrl+Alt+S' to start clicking.")
-    print("Press 'Ctrl+Alt+X' to stop clicking.")
-    print("Press 'Ctrl+Alt+Q' to quit the program.")
-    print(f"Total clicks so far: {total_clicks}")
+    log_and_print("Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks")
+    log_and_print("Press 'Ctrl+Alt+S' to start clicking.")
+    log_and_print("Press 'Ctrl+Alt+X' to stop clicking.")
+    log_and_print("Press 'Ctrl+Alt+Q' to quit the program.")
+    log_and_print(f"Total clicks so far: {total_clicks}")
 
     # Register hotkeys
     keyboard.add_hotkey("ctrl+alt+s", start_clicking)
     keyboard.add_hotkey("ctrl+alt+x", stop_clicking)
     keyboard.add_hotkey("ctrl+alt+q", lambda: (stop_clicking(), exit()))
 
-    print("Listening for hotkeys...")
+    log_and_print("Listening for hotkeys...")
     keyboard.wait("ctrl+alt+q")  # Keeps the program running
 
 if __name__ == "__main__":
