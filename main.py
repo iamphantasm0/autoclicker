@@ -34,18 +34,18 @@ def save_total_clicks(total_clicks):
 # Initialize the total clicks count
 total_clicks = read_total_clicks()
 
-# Function to simulate a human-like click (without extra mouse movement)
+# Function to simulate a human-like click (minimal movement)
 def simulate_human_click():
     # Simulate mouse click at a fixed position (no extra movement)
     x, y = 500, 500  # Adjust these values to your target position
-    pyautogui.moveTo(x, y, duration=random.uniform(0.05, 0.2))  # Minimal movement to prevent webpage from shaking
+    pyautogui.moveTo(x, y, duration=random.uniform(0.002, 0.005))  # Very minimal movement to prevent shaking
 
     # Add a small random delay before clicking to mimic human behavior
-    time.sleep(random.uniform(0.03, 0.1))  # Slight delay before clicking
+    time.sleep(random.uniform(0.01, 0.03))  # Slight delay before clicking
 
     # Simulate mouse down and up
     pyautogui.mouseDown()
-    time.sleep(random.uniform(0.03, 0.1))  # Slight delay between down and up
+    time.sleep(random.uniform(0.01, 0.03))  # Slight delay between down and up
     pyautogui.mouseUp()
 
     log_and_print(f"Clicked at ({x}, {y})")
@@ -53,13 +53,13 @@ def simulate_human_click():
 def auto_click():
     global running, total_clicks
     last_break_time = time.time()  # Track the last time a break was taken
-    min_time_between_breaks = 20  # Reduce minimum time between breaks in seconds
+    min_time_between_breaks = 15  # Reduce minimum time between breaks in seconds
 
     try:
         while running:
             # Generate a random interval and duration
-            interval = random.uniform(0.05, 0.2)  # Faster random interval between clicks
-            duration = random.uniform(3, 7)       # Faster, shorter duration to stay on this interval (in seconds)
+            interval = random.uniform(0.01, 0.05)  # Faster random interval between clicks (0.01 to 0.05 seconds)
+            duration = random.uniform(2, 5)        # Shorter duration to stay on this interval (in seconds)
             
             log_and_print(f"Using interval: {interval:.2f} seconds for the next {duration:.2f} seconds.")
             
@@ -68,7 +68,7 @@ def auto_click():
             # Click repeatedly for the specified duration
             while running and (time.time() - start_time) < duration:
                 if (time.time() - last_break_time) > min_time_between_breaks and random.random() < 0.1:  # 10% chance
-                    break_duration = random.uniform(1, 5)  # Shorter break duration (1 to 5 seconds)
+                    break_duration = random.uniform(1, 3)  # Shorter break duration (1 to 3 seconds)
                     log_and_print(f"Taking a break for {break_duration:.2f} seconds.")
                     time.sleep(break_duration)
                     last_break_time = time.time()  # Update the last break time
@@ -100,7 +100,7 @@ def stop_clicking():
         log_and_print("Mouse moved to unstick.")
 
 def main():
-    log_and_print("Advanced Random Interval Auto Clicker with Infrequent Mouse Movement and Breaks")
+    log_and_print("Advanced Random Interval Auto Clicker with Minimal Mouse Movement and Faster Clicks")
     log_and_print("Press 'Ctrl+Alt+S' to start clicking.")
     log_and_print("Press 'Ctrl+Alt+X' to stop clicking.")
     log_and_print("Press 'Ctrl+Alt+Q' to quit the program.")
