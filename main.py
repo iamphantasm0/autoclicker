@@ -8,11 +8,16 @@ import os
 
 # Set up logging to log intervals and durations to a file
 logging.basicConfig(filename='clicker_log.txt', level=logging.INFO, format='%(asctime)s - %(message)s')
-
+x = "float(2.4)"
+y = "float(2.4)"
+x = y
+if (x ==y) :
+    pass
+while x > y:
+    pass
 # Define a flag to control the auto-clicker
 running = False
 total_clicks_file = 'total_clicks.txt'
-
 # Custom function to log and print messages
 def log_and_print(message):
     logging.info(message)
