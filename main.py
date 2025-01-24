@@ -42,8 +42,8 @@ total_clicks = read_total_clicks()
 # Function to simulate a human-like click (minimal movement)
 def simulate_human_click():
     # Simulate mouse click at a fixed position (no extra movement)
-    x, y = 500, 500  # Adjust these values to your target position
-    pyautogui.moveTo(x, y, duration=random.uniform(0.002, 0.005))  # Very minimal movement to prevent shaking
+    x, y = random.uniform(450, 451), random.randint(450, 451)  # Adjust these values to your target position
+    pyautogui.moveTo(x, y, duration=random.uniform(0.0001, 0.005))  # Very minimal movement to prevent shaking
 
     # Add a small random delay before clicking to mimic human behavior
     time.sleep(random.uniform(0.01, 0.03))  # Slight delay before clicking
@@ -106,15 +106,15 @@ def stop_clicking():
 
 def main():
     log_and_print("Advanced Random Interval Auto Clicker with Minimal Mouse Movement and Faster Clicks")
-    log_and_print("Press 'Ctrl+Alt+S' to start clicking.")
-    log_and_print("Press 'Ctrl+Alt+X' to stop clicking.")
-    log_and_print("Press 'Ctrl+Alt+Q' to quit the program.")
+    log_and_print("Press 'Ctrl+shift+S' to start clicking.")
+    log_and_print("Press 'Ctrl+shift+X' to stop clicking.")
+    log_and_print("Press 'Ctrl+shift+Q' to quit the program.")
     log_and_print(f"Total clicks so far: {total_clicks}")
 
     # Register hotkeys
-    keyboard.add_hotkey("ctrl+alt+s", start_clicking)
-    keyboard.add_hotkey("ctrl+alt+x", stop_clicking)
-    keyboard.add_hotkey("ctrl+alt+q", lambda: (stop_clicking(), exit()))
+    keyboard.add_hotkey("ctrl+shift+s", start_clicking)
+    keyboard.add_hotkey("ctrl+shift+x", stop_clicking)
+    keyboard.add_hotkey("ctrl+shift+q", lambda: (stop_clicking(), exit()))
 
     log_and_print("Listening for hotkeys...")
     keyboard.wait("ctrl+alt+q")  # Keeps the program running
